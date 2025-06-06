@@ -1,0 +1,2193 @@
+[
+    {
+        "numero": 1,
+        "question": "Parmi les phénomènes suivants, lequel ne permet pas la propagation des ultrasons ?",
+        "choix": {
+            "A": "Milieu gazeux",
+            "B": "Milieu liquide",
+            "C": "Milieu solide",
+            "D": "Milieu vide"
+        },
+        "bonne_reponse": "D"
+    },
+    {
+        "numero": 2,
+        "question": "Laquelle de ces fréquences n'est pas utilisée en contrôle par ultrasons conventionnels ?",
+        "choix": {
+            "A": "0,5 MHz",
+            "B": "2 MHz",
+            "C": "10 MHz",
+            "D": "25 MHz"
+        },
+        "bonne_reponse": "D"
+    },
+    {
+        "numero": 3,
+        "question": "Parmi les propositions suivantes, laquelle correspond à la définition du champ proche d’un faisceau ultrasonore ?",
+        "choix": {
+            "A": "Zone où l’intensité du faisceau ultrasonore varie de façon complexe avec des maxima et minima",
+            "B": "Zone où le faisceau est le plus étroit",
+            "C": "Zone où l’intensité diminue de façon régulière",
+            "D": "Zone où les ondes transversales sont générées"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 4,
+        "question": "Quelle grandeur ne modifie pas la vitesse de propagation des ultrasons dans un solide isotrope ?",
+        "choix": {
+            "A": "La température",
+            "B": "Le module d’Young",
+            "C": "La masse volumique",
+            "D": "La couleur du matériau"
+        },
+        "bonne_reponse": "D"
+    },
+    {
+        "numero": 5,
+        "question": "Parmi les propositions suivantes, laquelle n’est pas une onde ultrasonore rencontrée en contrôle non destructif ?",
+        "choix": {
+            "A": "Onde longitudinale",
+            "B": "Onde transversale",
+            "C": "Onde de surface",
+            "D": "Onde électromagnétique"
+        },
+        "bonne_reponse": "D"
+    },
+    {
+        "numero": 6,
+        "question": "Le couplant utilisé en contrôle par contact doit remplir principalement la fonction suivante :",
+        "choix": {
+            "A": "Favoriser le refroidissement de la sonde",
+            "B": "Permettre la transmission d’ultrasons entre la sonde et la pièce",
+            "C": "Augmenter la sensibilité du contrôle",
+            "D": "Réduire la largeur d'impulsion"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 7,
+        "question": "En contrôle ultrasonore, la zone morte correspond à :",
+        "choix": {
+            "A": "La distance entre la sonde et la première interface de la pièce",
+            "B": "La zone située après la distance focale",
+            "C": "La zone où aucun défaut n’est détectable juste sous la sonde",
+            "D": "La zone où la vitesse des ultrasons est minimale"
+        },
+        "bonne_reponse": "C"
+    },
+    {
+        "numero": 8,
+        "question": "L’angle critique est l’angle d’incidence à partir duquel :",
+        "choix": {
+            "A": "L’onde réfractée se propage parallèlement à l’interface",
+            "B": "Il n’y a pas de transmission d’onde",
+            "C": "L’onde incidente est réfléchie à 45°",
+            "D": "L’onde transmise est longitudinale"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 9,
+        "question": "Un traducteur ultrasonore génère un faisceau dont l’angle de divergence dépend :",
+        "choix": {
+            "A": "Uniquement du matériau contrôlé",
+            "B": "Du diamètre du traducteur et de la fréquence",
+            "C": "Uniquement de la fréquence",
+            "D": "De la température ambiante"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 10,
+        "question": "La fréquence des ultrasons utilisés en contrôle industriel est généralement comprise entre :",
+        "choix": {
+            "A": "0,1 et 10 kHz",
+            "B": "20 Hz et 20 kHz",
+            "C": "100 kHz et 50 MHz",
+            "D": "1 et 10 GHz"
+        },
+        "bonne_reponse": "C"
+    },
+    {
+        "numero": 11,
+        "question": "Dans le contrôle par immersion, l’eau remplit principalement la fonction suivante :",
+        "choix": {
+            "A": "Réduire la température de la pièce",
+            "B": "Assurer un bon couplage acoustique entre la sonde et la pièce",
+            "C": "Augmenter la fréquence des ultrasons",
+            "D": "Diminuer l’atténuation dans la pièce"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 12,
+        "question": "La zone focale d’une sonde ultrasonore correspond à :",
+        "choix": {
+            "A": "La zone où la divergence du faisceau est maximale",
+            "B": "La distance à laquelle l’intensité du faisceau est maximale",
+            "C": "La zone morte de la sonde",
+            "D": "La zone d’atténuation maximale"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 13,
+        "question": "Pour augmenter la sensibilité d’un contrôle ultrasonore, il est préférable d’utiliser :",
+        "choix": {
+            "A": "Une fréquence plus basse",
+            "B": "Une sonde de plus grand diamètre",
+            "C": "Une sonde à angle",
+            "D": "Un couplant plus visqueux"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 14,
+        "question": "Dans un solide isotrope, la vitesse des ondes de cisaillement est généralement :",
+        "choix": {
+            "A": "Égale à celle des ondes longitudinales",
+            "B": "Supérieure à celle des ondes longitudinales",
+            "C": "Inférieure à celle des ondes longitudinales",
+            "D": "Indépendante du matériau"
+        },
+        "bonne_reponse": "C"
+    },
+    {
+        "numero": 15,
+        "question": "La formule v = λ·f relie :",
+        "choix": {
+            "A": "La vitesse, la longueur d’onde et la fréquence",
+            "B": "La fréquence, la masse volumique et l’intensité",
+            "C": "La vitesse, l’impédance et la température",
+            "D": "La longueur d’onde, le temps et la profondeur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 16,
+        "question": "L’atténuation des ultrasons dans un matériau dépend principalement :",
+        "choix": {
+            "A": "Du module d’Young",
+            "B": "De la fréquence et de la nature du matériau",
+            "C": "De la température uniquement",
+            "D": "Du diamètre de la sonde"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 17,
+        "question": "La distance focale d’une sonde dépend principalement :",
+        "choix": {
+            "A": "De la fréquence et du diamètre de la sonde",
+            "B": "De la température du matériau",
+            "C": "De la largeur d’impulsion",
+            "D": "De la longueur de la pièce"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 18,
+        "question": "Lorsqu’on augmente la fréquence des ultrasons, la longueur d’onde :",
+        "choix": {
+            "A": "Augmente",
+            "B": "Diminue",
+            "C": "Reste constante",
+            "D": "Devient nulle"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 19,
+        "question": "Le rapport signal/bruit en ultrasons s’améliore en :",
+        "choix": {
+            "A": "Augmentant la température",
+            "B": "Utilisant un couplant approprié",
+            "C": "Diminuant la fréquence",
+            "D": "Augmentant la largeur d’impulsion"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 20,
+        "question": "L’utilisation d’une sonde à angle permet de générer principalement :",
+        "choix": {
+            "A": "Des ondes longitudinales",
+            "B": "Des ondes transversales",
+            "C": "Des ondes de surface",
+            "D": "Des ondes Lamb"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 21,
+        "question": "En contrôle ultrasonore, la zone morte est due principalement à :",
+        "choix": {
+            "A": "La propagation dans la pièce",
+            "B": "Le temps de vibration du traducteur après émission de l’impulsion",
+            "C": "La température du matériau",
+            "D": "L’atténuation du couplant"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 22,
+        "question": "Un défaut proche de la surface d’entrée donnera :",
+        "choix": {
+            "A": "Un écho tardif",
+            "B": "Un écho précoce",
+            "C": "Aucune indication",
+            "D": "Un écho de fond très fort"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 23,
+        "question": "Le choix du traducteur dépend principalement :",
+        "choix": {
+            "A": "Du diamètre de la pièce uniquement",
+            "B": "Du type de défaut recherché et de la géométrie de la pièce",
+            "C": "De la température",
+            "D": "De la couleur du matériau"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 24,
+        "question": "La discrimination entre deux défauts proches est appelée :",
+        "choix": {
+            "A": "Résolution axiale",
+            "B": "Sensibilité",
+            "C": "Atténuation",
+            "D": "Amplitude"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 25,
+        "question": "Une diminution importante de l’amplitude de l’écho de fond indique généralement :",
+        "choix": {
+            "A": "La présence probable d’un défaut",
+            "B": "Un excellent couplage",
+            "C": "Un traducteur défectueux",
+            "D": "Une pièce trop mince"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 26,
+        "question": "L’épaisseur minimale mesurable dépend principalement :",
+        "choix": {
+            "A": "De la température",
+            "B": "De la largeur d’impulsion et de la fréquence",
+            "C": "De la vitesse des ultrasons",
+            "D": "Du module d’Young"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 27,
+        "question": "Pour mesurer précisément l’épaisseur d’une tôle fine, il est préférable d’utiliser :",
+        "choix": {
+            "A": "Une basse fréquence",
+            "B": "Une sonde à angle",
+            "C": "Une haute fréquence et une impulsion courte",
+            "D": "Un traducteur de grande taille"
+        },
+        "bonne_reponse": "C"
+    },
+    {
+        "numero": 28,
+        "question": "En contrôle ultrasonore, une interface entre deux milieux d’impédances très différentes entraîne :",
+        "choix": {
+            "A": "Beaucoup de transmission de l’onde",
+            "B": "Beaucoup de réflexion de l’onde",
+            "C": "Peu de réflexion",
+            "D": "Aucune transmission"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 29,
+        "question": "La principale fonction d’un oscilloscope lors d’un contrôle ultrasonore est :",
+        "choix": {
+            "A": "Générer le signal ultrasonore",
+            "B": "Afficher le signal reçu",
+            "C": "Amplifier le signal",
+            "D": "Réduire la fréquence"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 30,
+        "question": "Une zone de géométrie complexe peut rendre difficile la détection d’un défaut à cause :",
+        "choix": {
+            "A": "De la réflexion spéculaire",
+            "B": "De la dispersion des ondes et des multiples réflexions",
+            "C": "Du mode d’onde",
+            "D": "Du couplant"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 31,
+        "question": "Le contrôle par transmission est utilisé principalement pour :",
+        "choix": {
+            "A": "Détecter des défauts traversants",
+            "B": "Mesurer la vitesse des ultrasons",
+            "C": "Contrôler la fréquence d’émission",
+            "D": "Calibrer la sonde"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 32,
+        "question": "Le phénomène d’atténuation est principalement dû à :",
+        "choix": {
+            "A": "La réflexion totale",
+            "B": "L’absorption et la diffusion",
+            "C": "La conversion d’onde",
+            "D": "L’impédance acoustique"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 33,
+        "question": "La vitesse des ondes transversales dans l’acier est environ :",
+        "choix": {
+            "A": "5 900 m/s",
+            "B": "3 200 m/s",
+            "C": "1 480 m/s",
+            "D": "4 500 m/s"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 34,
+        "question": "Le champ lointain d’un faisceau ultrasonore correspond à :",
+        "choix": {
+            "A": "La zone d’intensité minimale",
+            "B": "La zone où l’intensité du faisceau diminue de façon régulière",
+            "C": "La zone de divergence maximale",
+            "D": "La zone d’atténuation maximale"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 35,
+        "question": "La loi de Snell-Descartes s’applique pour :",
+        "choix": {
+            "A": "Le calcul de l’impédance acoustique",
+            "B": "Le calcul de l’angle de réfraction",
+            "C": "La détermination de la fréquence",
+            "D": "La mesure de la température"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 36,
+        "question": "La zone de Fresnel est :",
+        "choix": {
+            "A": "La zone d’interférence complexe située près du traducteur",
+            "B": "La zone d’atténuation minimale",
+            "C": "La zone d’intensité maximale",
+            "D": "La zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 37,
+        "question": "La notion de champ proche désigne :",
+        "choix": {
+            "A": "La zone située juste sous la sonde où les ondes interfèrent",
+            "B": "La zone de divergence maximale",
+            "C": "La zone où la vitesse est maximale",
+            "D": "La zone de résolution maximale"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 38,
+        "question": "La résolution axiale dépend principalement :",
+        "choix": {
+            "A": "Du diamètre de la sonde",
+            "B": "De la fréquence et de la largeur d’impulsion",
+            "C": "De la température",
+            "D": "De l’impédance"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 39,
+        "question": "Le contrôle par impulsion-écho consiste à :",
+        "choix": {
+            "A": "Envoyer une onde et mesurer le temps de l’écho réfléchi par les défauts",
+            "B": "Mesurer l’atténuation uniquement",
+            "C": "Envoyer un signal continu",
+            "D": "Contrôler la température"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 40,
+        "question": "Le mode d’onde Lamb est utilisé pour :",
+        "choix": {
+            "A": "Détecter des défauts dans les plaques fines",
+            "B": "Mesurer la vitesse des ultrasons",
+            "C": "Calibrer l’appareil",
+            "D": "Mesurer la température"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 41,
+        "question": "Pour améliorer la pénétration des ultrasons dans un matériau très atténuateur, il faut :",
+        "choix": {
+            "A": "Augmenter la fréquence",
+            "B": "Diminuer la fréquence",
+            "C": "Augmenter le diamètre du traducteur",
+            "D": "Diminuer la largeur d’impulsion"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 42,
+        "question": "Le choix du mode d’onde dépend :",
+        "choix": {
+            "A": "Du type de défaut recherché et du matériau",
+            "B": "De la température",
+            "C": "De la couleur de la pièce",
+            "D": "De la position de l’opérateur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 43,
+        "question": "L’impédance acoustique d’un matériau est égale à :",
+        "choix": {
+            "A": "La masse volumique multipliée par la vitesse du son dans le matériau",
+            "B": "La fréquence multipliée par la vitesse",
+            "C": "Le module d’Young multiplié par la fréquence",
+            "D": "La température multipliée par la vitesse"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 44,
+        "question": "En contrôle ultrasonore, la discrimination spatiale dépend principalement :",
+        "choix": {
+            "A": "Du diamètre du traducteur",
+            "B": "De la fréquence et de la largeur d’impulsion",
+            "C": "De la température",
+            "D": "Du couplant"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 45,
+        "question": "Le champ lointain est défini comme :",
+        "choix": {
+            "A": "La zone où le faisceau est collimaté et l’intensité diminue régulièrement",
+            "B": "La zone où l’intensité est maximale",
+            "C": "La zone d’interférence proche",
+            "D": "La zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 46,
+        "question": "Le couplant utilisé en contrôle par immersion doit :",
+        "choix": {
+            "A": "Avoir une bonne conductivité acoustique",
+            "B": "Avoir une forte viscosité",
+            "C": "Être coloré",
+            "D": "Être chauffé"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 47,
+        "question": "Un écho multiple en contrôle ultrasonore est :",
+        "choix": {
+            "A": "Un écho qui se répète à intervalles réguliers, dû à des réflexions successives",
+            "B": "Un écho d’origine inconnue",
+            "C": "Un écho unique dû à la réflexion sur la face opposée",
+            "D": "Un défaut dans l’appareil"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 48,
+        "question": "Un défaut plan perpendiculaire au faisceau ultrasonore provoque :",
+        "choix": {
+            "A": "Une réflexion maximale",
+            "B": "Une dispersion",
+            "C": "Une absorption totale",
+            "D": "Une transmission maximale"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 49,
+        "question": "La loi de Snell-Descartes permet de déterminer :",
+        "choix": {
+            "A": "L’angle de réflexion",
+            "B": "L’angle de réfraction",
+            "C": "La fréquence d’émission",
+            "D": "La zone morte"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 50,
+        "question": "En contrôle par immersion, un prisme d’adaptation permet de :",
+        "choix": {
+            "A": "Concentrer l’énergie sur le défaut",
+            "B": "Ajuster l’angle d’incidence et transmettre correctement l’onde dans la pièce",
+            "C": "Améliorer le couplage électrique",
+            "D": "Augmenter la résolution axiale"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 51,
+        "question": "En contrôle ultrasonore, un écho de fond plus faible que la normale peut indiquer :",
+        "choix": {
+            "A": "La présence d’un défaut dans la pièce",
+            "B": "Un excellent couplage",
+            "C": "Un traducteur défectueux",
+            "D": "Une pièce trop mince"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 52,
+        "question": "Dans un contrôle par ultrasons, un défaut situé près de la surface d’entrée produira :",
+        "choix": {
+            "A": "Un écho tardif",
+            "B": "Un écho précoce",
+            "C": "Aucune indication",
+            "D": "Un écho de fond très fort"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 53,
+        "question": "Le mode d’onde utilisé pour détecter des défauts en profondeur est généralement :",
+        "choix": {
+            "A": "Longitudinal",
+            "B": "Transversal",
+            "C": "Surface",
+            "D": "Rayleigh"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 54,
+        "question": "Le choix du traducteur pour un contrôle ultrasonore dépend de :",
+        "choix": {
+            "A": "La taille du défaut recherché et de la géométrie de la pièce",
+            "B": "La couleur du matériau",
+            "C": "La vitesse du contrôle",
+            "D": "La température ambiante"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 55,
+        "question": "Dans le contrôle par ultrasons, la distance entre le traducteur et la première interface de la pièce est appelée :",
+        "choix": {
+            "A": "Zone morte",
+            "B": "Retard de contact",
+            "C": "Distance focale",
+            "D": "Zone d’atténuation"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 56,
+        "question": "Un écho multiple dans un contrôle ultrasonore est :",
+        "choix": {
+            "A": "Un écho unique dû à la réflexion sur la face opposée",
+            "B": "Un écho qui se répète à intervalles réguliers, dû à des réflexions successives",
+            "C": "Un écho d’origine inconnue",
+            "D": "Un défaut dans l’appareil"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 57,
+        "question": "L’avantage du contrôle par ultrasons sur les méthodes radiographiques est :",
+        "choix": {
+            "A": "La capacité à détecter des défauts superficiels uniquement",
+            "B": "L’absence de rayonnement ionisant",
+            "C": "La facilité de mise en œuvre sur tous types de pièces",
+            "D": "Le coût très faible"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 58,
+        "question": "La directivité d’un faisceau ultrasonore est principalement influencée par :",
+        "choix": {
+            "A": "La forme de la pièce",
+            "B": "La fréquence et le diamètre du traducteur",
+            "C": "Le type de couplant",
+            "D": "La température du milieu"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 59,
+        "question": "En contrôle ultrasonore, la discrimination entre deux défauts proches est appelée :",
+        "choix": {
+            "A": "Résolution axiale",
+            "B": "Sensibilité",
+            "C": "Atténuation",
+            "D": "Amplitude"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 60,
+        "question": "Lorsque l’on utilise une sonde à angle, l’angle d’incidence permet de sélectionner :",
+        "choix": {
+            "A": "Le type d’onde générée dans la pièce",
+            "B": "La température de la pièce",
+            "C": "La couleur du matériau",
+            "D": "La vitesse de propagation"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 61,
+        "question": "Dans le contrôle ultrasonore, pourquoi utilise-t-on parfois des traducteurs à double élément ?",
+        "choix": {
+            "A": "Pour générer des ondes de surface uniquement",
+            "B": "Pour améliorer la détection des défauts proches de la surface et réduire la zone morte",
+            "C": "Pour mesurer la température",
+            "D": "Pour augmenter la puissance du signal"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 62,
+        "question": "Le signal reçu lors d’un contrôle par transmission indique :",
+        "choix": {
+            "A": "Le diamètre du traducteur",
+            "B": "L’atténuation totale à travers la pièce, donc l’absence ou la présence de défauts traversants",
+            "C": "La fréquence de résonance de la pièce",
+            "D": "L’indice de réfraction"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 63,
+        "question": "Quel paramètre doit-on ajuster pour détecter des petits défauts près de la surface ?",
+        "choix": {
+            "A": "La fréquence, en l’augmentant",
+            "B": "La largeur d’impulsion, en la diminuant",
+            "C": "La puissance du générateur",
+            "D": "Le couplant"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 64,
+        "question": "Quelle est la principale cause de bruit parasite lors d’un contrôle ultrasonore ?",
+        "choix": {
+            "A": "L’atténuation",
+            "B": "Les interférences électriques et les conditions de couplage",
+            "C": "La fréquence",
+            "D": "La température ambiante"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 65,
+        "question": "Quand observe-t-on un écho multiple dans un contrôle ultrasonore ?",
+        "choix": {
+            "A": "Quand il y a plusieurs défauts superposés",
+            "B": "Quand la pièce est très mince et que les ondes se réfléchissent plusieurs fois entre les faces",
+            "C": "Quand la sonde est mal calibrée",
+            "D": "Quand le couplant est trop visqueux"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 66,
+        "question": "Quel type d’onde est le moins atténué dans l’acier ?",
+        "choix": {
+            "A": "Longitudinale",
+            "B": "Transversale",
+            "C": "De surface",
+            "D": "Lamb"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 67,
+        "question": "Le choix de la fréquence du traducteur influe principalement sur :",
+        "choix": {
+            "A": "La couleur de l’oscillogramme",
+            "B": "La résolution et la pénétration du signal",
+            "C": "L’atténuation acoustique du couplant",
+            "D": "La vitesse des ondes"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 68,
+        "question": "En contrôle ultrasonore, que signifie une diminution importante de l’amplitude de l’écho de fond ?",
+        "choix": {
+            "A": "Une absence de défaut",
+            "B": "La présence probable d’un défaut",
+            "C": "Un très bon couplage",
+            "D": "Une pièce très mince"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 69,
+        "question": "Quel phénomène peut rendre difficile la détection d’un défaut situé sous une zone de géométrie complexe ?",
+        "choix": {
+            "A": "La réflexion spéculaire",
+            "B": "La dispersion des ondes et les multiples réflexions",
+            "C": "La présence de couplant",
+            "D": "Le mode d’onde"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 70,
+        "question": "Dans quelle situation l’ultrason ne traverse-t-il pas la pièce contrôlée ?",
+        "choix": {
+            "A": "Quand l’angle critique de réfraction est atteint",
+            "B": "Quand la fréquence est trop basse",
+            "C": "Quand la pièce est trop épaisse",
+            "D": "Quand le diamètre du traducteur est trop grand"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 71,
+        "question": "Quelle est la propriété principale recherchée pour un couplant ultrasonore ?",
+        "choix": {
+            "A": "Haute densité",
+            "B": "Bonne conductivité acoustique",
+            "C": "Haute température de fusion",
+            "D": "Vitesse de propagation faible"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 72,
+        "question": "Pourquoi le contrôle ultrasonore ne fonctionne-t-il pas sur des matériaux très poreux comme la mousse ?",
+        "choix": {
+            "A": "Parce que la vitesse des ondes y est trop élevée",
+            "B": "Parce que l’atténuation y est trop forte et les ondes sont dispersées",
+            "C": "Parce que la température y est trop variable",
+            "D": "Parce que la couleur perturbe la propagation"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 73,
+        "question": "Pour mesurer avec précision l’épaisseur d’une tôle très fine, il est préférable d’utiliser :",
+        "choix": {
+            "A": "Une basse fréquence",
+            "B": "Une sonde à angle",
+            "C": "Une haute fréquence et une impulsion courte",
+            "D": "Un traducteur de grande taille"
+        },
+        "bonne_reponse": "C"
+    },
+    {
+        "numero": 74,
+        "question": "L’onde de surface Rayleigh est surtout utilisée pour :",
+        "choix": {
+            "A": "Contrôler la vitesse des ondes dans l’air",
+            "B": "Détecter des défauts proches de la surface",
+            "C": "Augmenter la pénétration",
+            "D": "Mesurer l’épaisseur"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 75,
+        "question": "Pourquoi faut-il bien calibrer l’appareil de contrôle ultrasonore avant chaque mesure ?",
+        "choix": {
+            "A": "Pour s’assurer de la bonne température",
+            "B": "Pour garantir la fiabilité des mesures et l’identification correcte des échos",
+            "C": "Pour éviter l’usure du traducteur",
+            "D": "Pour changer la couleur de l’écran"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 76,
+        "question": "Quel est l’effet d’un angle d’incidence incorrect lors de l’utilisation d’une sonde à angle ?",
+        "choix": {
+            "A": "La génération d’ondes parasites et la possible perte de détection des défauts",
+            "B": "Une augmentation de la température de la pièce",
+            "C": "Un écho de fond plus intense",
+            "D": "Un allongement de la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 77,
+        "question": "Un défaut plan perpendiculaire à la direction du faisceau ultrasonore provoque généralement :",
+        "choix": {
+            "A": "Une réflexion maximale",
+            "B": "Une dispersion",
+            "C": "Une absorption totale",
+            "D": "Une transmission maximale"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 78,
+        "question": "L’atténuation dans l’eau pour un contrôle par immersion est :",
+        "choix": {
+            "A": "Plus élevée que dans l’acier",
+            "B": "Plus faible que dans l’acier",
+            "C": "Identique à celle dans l’acier",
+            "D": "Nulle"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 79,
+        "question": "La profondeur de pénétration des ultrasons dépend de :",
+        "choix": {
+            "A": "La fréquence, de l’atténuation du matériau et du type d’onde",
+            "B": "La couleur de la pièce",
+            "C": "La taille de la pièce uniquement",
+            "D": "L’humidité ambiante"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 80,
+        "question": "Quel est l’avantage principal de l’utilisation d’un traducteur focalisé ?",
+        "choix": {
+            "A": "Augmenter la zone morte",
+            "B": "Concentrer l’énergie sur une zone restreinte pour améliorer la résolution",
+            "C": "Diminuer la fréquence",
+            "D": "Réduire la pénétration"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 81,
+        "question": "En contrôle ultrasonore, la zone de Fresnel est définie comme :",
+        "choix": {
+            "A": "La zone de divergence maximale du faisceau",
+            "B": "La première partie du champ proche où les ondes interfèrent et la détection est incertaine",
+            "C": "La zone d’atténuation minimale",
+            "D": "La zone morte"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 82,
+        "question": "Quel paramètre est utilisé pour calculer la profondeur d’un défaut à partir du temps d’écho ?",
+        "choix": {
+            "A": "La densité du matériau",
+            "B": "La vitesse de propagation des ultrasons dans le matériau",
+            "C": "La fréquence du traducteur",
+            "D": "La largeur d’impulsion"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 83,
+        "question": "En contrôle ultrasonore, la répétabilité d’une mesure dépend surtout :",
+        "choix": {
+            "A": "Du diamètre de la pièce",
+            "B": "De la stabilité de l’appareil, du couplage et de la calibration",
+            "C": "Du nombre d’opérateurs",
+            "D": "De la couleur du matériau"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 84,
+        "question": "Quelle propriété du matériau a le plus d’influence sur la vitesse des ultrasons ?",
+        "choix": {
+            "A": "La masse volumique et le module d’élasticité",
+            "B": "La température uniquement",
+            "C": "La conductivité électrique",
+            "D": "La couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 85,
+        "question": "Le contrôle ultrasonore est particulièrement adapté pour :",
+        "choix": {
+            "A": "Les matériaux conducteurs uniquement",
+            "B": "Les pièces massives et peu accessibles par d’autres méthodes",
+            "C": "Les pièces très fines uniquement",
+            "D": "La mesure de la couleur"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 86,
+        "question": "Quand observe-t-on un écho de fond très faible voire absent ?",
+        "choix": {
+            "A": "Lorsque la pièce est très épaisse",
+            "B": "En présence d’un défaut ou d’une forte atténuation",
+            "C": "Avec un traducteur trop petit",
+            "D": "Quand la fréquence est trop élevée"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 87,
+        "question": "En ultrasons, la notion de champ lointain désigne :",
+        "choix": {
+            "A": "La zone juste sous la sonde",
+            "B": "La zone où le faisceau est collimaté et l’intensité diminue régulièrement",
+            "C": "La zone d’interférence proche",
+            "D": "La zone de Fresnel"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 88,
+        "question": "Pourquoi utilise-t-on un prisme d’adaptation sous certaines sondes à angle ?",
+        "choix": {
+            "A": "Pour concentrer l’énergie sur le défaut",
+            "B": "Pour ajuster l’angle d’incidence et transmettre correctement l’onde de cisaillement dans la pièce",
+            "C": "Pour améliorer le couplage électrique",
+            "D": "Pour augmenter la résolution axiale"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 89,
+        "question": "Le phénomène de dispersion des ondes en ultrasons conduit à :",
+        "choix": {
+            "A": "Un déplacement du faisceau",
+            "B": "Une variation de la vitesse selon la fréquence et une perte de résolution",
+            "C": "Une augmentation de la pénétration",
+            "D": "Une diminution de la largeur d’impulsion"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 90,
+        "question": "Quelle méthode est privilégiée pour mesurer l’épaisseur d’un revêtement très fin par ultrasons ?",
+        "choix": {
+            "A": "Sonde à angle basse fréquence",
+            "B": "Haute fréquence et impulsion courte",
+            "C": "Contrôle par transmission uniquement",
+            "D": "Mesure par champ lointain"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 91,
+        "question": "Quel est le principal inconvénient du contrôle ultrasonore sur des matériaux composites très hétérogènes ?",
+        "choix": {
+            "A": "L’écho de fond est toujours trop fort",
+            "B": "L’atténuation, la dispersion et la réflexion multiple limitent la pénétration et la précision",
+            "C": "On ne peut pas mesurer l’épaisseur",
+            "D": "Il n’y a pas de zone morte"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 92,
+        "question": "Le rapport signal/bruit lors d’un contrôle ultrasonore dépend surtout :",
+        "choix": {
+            "A": "Du diamètre de la pièce",
+            "B": "De la qualité du couplage, du matériau, du traducteur et du réglage de gain",
+            "C": "Du nombre d’impulsions",
+            "D": "Du type d’écho"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 93,
+        "question": "En contrôle ultrasonore, la notion de “porte” sur l’oscilloscope signifie :",
+        "choix": {
+            "A": "Un réglage pour ouvrir la sonde",
+            "B": "La sélection d’une plage de temps ou de profondeur pour déclencher un signal ou mesurer une amplitude",
+            "C": "Une zone interdite de mesure",
+            "D": "Une méthode de calibration"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 94,
+        "question": "Le principal risque d’un mauvais couplage lors d’un contrôle est :",
+        "choix": {
+            "A": "L’usure du traducteur",
+            "B": "La perte ou l’atténuation importante du signal, entraînant des erreurs de détection",
+            "C": "Une augmentation de la fréquence",
+            "D": "Un écho de fond plus fort"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 95,
+        "question": "Lors d’un contrôle automatisé par ultrasons, l’avantage principal est :",
+        "choix": {
+            "A": "La rapidité, la répétabilité et l’archivage automatique des données",
+            "B": "La simplicité du matériel",
+            "C": "L’absence de calibration",
+            "D": "La réduction de la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 96,
+        "question": "Le contrôle ultrasonore d’une soudure nécessite souvent :",
+        "choix": {
+            "A": "Des fréquences plus basses pour augmenter la pénétration et des angles adaptés pour intercepter les défauts plans",
+            "B": "Des fréquences très élevées",
+            "C": "Un seul type de sonde",
+            "D": "La suppression totale du couplage"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 97,
+        "question": "Une atténuation anormale du signal peut être due à :",
+        "choix": {
+            "A": "Une très faible température",
+            "B": "La présence d’un défaut, d’un mauvais couplage ou d’un matériau très atténuateur",
+            "C": "Un angle d’incidence optimal",
+            "D": "Une forte pression"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 98,
+        "question": "Quel contrôle permet de détecter des défauts collés à la surface opposée à l’entrée ?",
+        "choix": {
+            "A": "Impulsion-écho classique",
+            "B": "Transmission traversante",
+            "C": "Contrôle par diffraction",
+            "D": "Interférométrie"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 99,
+        "question": "Pourquoi l’angle d’incidence doit-il être maîtrisé lors de l’utilisation d’une sonde à angle ?",
+        "choix": {
+            "A": "Parce qu’il influe sur la génération du bon mode d’onde et la direction du faisceau",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour réduire la largeur d’impulsion",
+            "D": "Pour augmenter la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 100,
+        "question": "La zone aveugle d’un traducteur correspond à :",
+        "choix": {
+            "A": "La zone morte sous la sonde où aucun écho ne peut être détecté",
+            "B": "La zone de focalisation du faisceau",
+            "C": "La zone d’atténuation maximale",
+            "D": "La zone de Fresnel"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 101,
+        "question": "La technique TOFD (Time Of Flight Diffraction) est particulièrement adaptée pour :",
+        "choix": {
+            "A": "La détection précise de la hauteur des défauts plans dans les soudures",
+            "B": "Le contrôle de surface uniquement",
+            "C": "L’augmentation de la zone morte",
+            "D": "Les pièces de faible épaisseur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 102,
+        "question": "Pourquoi une mauvaise calibration de la vitesse ultrasonore entraîne-t-elle une erreur dans la localisation des défauts ?",
+        "choix": {
+            "A": "Parce que la profondeur calculée à partir du temps d’écho dépend directement de la vitesse réglée",
+            "B": "Parce que l’amplitude du signal dépend de la vitesse",
+            "C": "Parce que la fréquence change",
+            "D": "Parce que la zone morte augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 103,
+        "question": "Quel est l’avantage principal du contrôle ultrasonore automatisé par rapport au contrôle manuel ?",
+        "choix": {
+            "A": "La reproductibilité, la rapidité et la traçabilité des résultats",
+            "B": "Le coût inférieur",
+            "C": "La simplicité du matériel",
+            "D": "La réduction de la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 104,
+        "question": "Pourquoi le contrôle par ultrasons ne détecte-t-il pas tous les défauts d’une pièce ?",
+        "choix": {
+            "A": "Certains défauts peuvent être mal orientés, trop petits ou avoir un contraste acoustique insuffisant",
+            "B": "Parce que la température de la pièce est trop basse",
+            "C": "Parce que la couleur de la pièce change",
+            "D": "Parce que la largeur d’impulsion est trop grande"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 105,
+        "question": "En contrôle ultrasonore, la notion de “porte” sur l’oscilloscope correspond à :",
+        "choix": {
+            "A": "Une plage temporelle ou spatiale pour déclencher une alarme ou effectuer une mesure",
+            "B": "Un réglage de la température",
+            "C": "Un changement de couleur de l’écran",
+            "D": "Une augmentation de la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 106,
+        "question": "Quelle est la conséquence principale d’un mauvais couplage lors d’un contrôle ultrasonore ?",
+        "choix": {
+            "A": "La perte ou l’atténuation du signal, entraînant des erreurs de détection",
+            "B": "Une augmentation de la fréquence",
+            "C": "Une diminution de la zone morte",
+            "D": "Un écho de fond plus fort"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 107,
+        "question": "Pourquoi doit-on régler la largeur d’impulsion lors d’un contrôle ultrasonore ?",
+        "choix": {
+            "A": "Pour optimiser la résolution axiale et l’épaisseur minimale mesurable",
+            "B": "Pour augmenter la température",
+            "C": "Pour changer la couleur du signal",
+            "D": "Pour augmenter la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 108,
+        "question": "Le contrôle par ultrasons multiéléments (phased array) permet principalement :",
+        "choix": {
+            "A": "De balayer électroniquement plusieurs angles et profondeurs sans déplacer la sonde",
+            "B": "De diminuer la largeur d’impulsion",
+            "C": "D’augmenter la température",
+            "D": "De changer la couleur de l’affichage"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 109,
+        "question": "Le mode B-scan en contrôle ultrasonore permet :",
+        "choix": {
+            "A": "De visualiser une coupe verticale de la pièce avec la profondeur et la position des défauts",
+            "B": "D’augmenter la zone morte",
+            "C": "De mesurer la température",
+            "D": "D’augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 110,
+        "question": "Pour garantir la traçabilité d’un contrôle automatisé, il est indispensable d’archiver :",
+        "choix": {
+            "A": "Les réglages utilisés et les signaux enregistrés",
+            "B": "La température de la pièce",
+            "C": "La couleur de l’écran",
+            "D": "La largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 111,
+        "question": "Dans quel cas la technique de contrôle par transmission traversante est-elle privilégiée ?",
+        "choix": {
+            "A": "Pour détecter des défauts traversants ou plans très fins",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour augmenter la température",
+            "D": "Pour diminuer la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 112,
+        "question": "Pourquoi une fréquence trop basse est-elle déconseillée pour contrôler des pièces très fines ?",
+        "choix": {
+            "A": "Parce que la résolution est insuffisante pour distinguer deux défauts très proches ou la paroi opposée",
+            "B": "Parce que la température augmente",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la zone morte augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 113,
+        "question": "En contrôle ultrasonore, qu’apporte une sonde focalisée par lentille en immersion ?",
+        "choix": {
+            "A": "Elle concentre l’énergie sur une zone précise, améliore la résolution et permet de séparer des défauts proches",
+            "B": "Elle augmente la zone morte",
+            "C": "Elle diminue la largeur d’impulsion",
+            "D": "Elle augmente la température"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 114,
+        "question": "Le mode d’onde Lamb est adapté pour détecter :",
+        "choix": {
+            "A": "Des défauts répartis sur toute l’épaisseur des plaques fines",
+            "B": "Des défauts très gros uniquement",
+            "C": "La couleur du matériau",
+            "D": "La température"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 115,
+        "question": "La notion de champ proche d’un faisceau ultrasonore correspond à :",
+        "choix": {
+            "A": "La zone où l’intensité varie de façon complexe avec des maxima et minima",
+            "B": "La zone où le faisceau est le plus étroit",
+            "C": "La zone où l’intensité diminue de façon régulière",
+            "D": "La zone où les ondes transversales sont générées"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 116,
+        "question": "Quelle propriété influence le plus la vitesse des ultrasons dans un matériau solide isotrope ?",
+        "choix": {
+            "A": "La masse volumique et le module d’élasticité",
+            "B": "La température uniquement",
+            "C": "La conductivité électrique",
+            "D": "La couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 117,
+        "question": "Que signifie la calibration du zéro sur un appareil ultrasonore ?",
+        "choix": {
+            "A": "Un réglage pour positionner le temps zéro au départ réel de l’impulsion, éliminant le délai électronique",
+            "B": "Augmenter la température",
+            "C": "Réduire la largeur d’impulsion",
+            "D": "Changer la couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 118,
+        "question": "Pourquoi l’ultrason ne traverse-t-il pas la pièce quand l’angle critique de réfraction est atteint ?",
+        "choix": {
+            "A": "Parce que l’onde réfractée se propage parallèlement à l’interface et n’entre plus dans la pièce",
+            "B": "Parce que la température est trop élevée",
+            "C": "Parce que la largeur d’impulsion augmente",
+            "D": "Parce que la couleur change"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 119,
+        "question": "Quelle propriété du couplant est essentielle pour un contrôle efficace ?",
+        "choix": {
+            "A": "Bonne conductivité acoustique",
+            "B": "Haute densité",
+            "C": "Haute température de fusion",
+            "D": "Vitesse de propagation faible"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 120,
+        "question": "En contrôle ultrasonore, pourquoi la discrimination spatiale dépend-elle de la fréquence et de la largeur d’impulsion ?",
+        "choix": {
+            "A": "Parce qu’une fréquence élevée et une impulsion courte améliorent la capacité à séparer deux défauts proches",
+            "B": "Parce que la température diminue",
+            "C": "Parce que la couleur du matériau change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 121,
+        "question": "Pourquoi la vitesse de propagation mal réglée fausse-t-elle la localisation des défauts ?",
+        "choix": {
+            "A": "Parce que la profondeur calculée à partir du temps d’écho dépend directement de la vitesse réglée",
+            "B": "Parce que la fréquence change",
+            "C": "Parce que la largeur d’impulsion augmente",
+            "D": "Parce que la couleur change"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 122,
+        "question": "Pourquoi l’utilisation d’une sonde à angle est-elle parfois préférable à une sonde de surface ?",
+        "choix": {
+            "A": "Pour détecter des défauts plans non parallèles à la surface et localisés plus en profondeur",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour augmenter la température",
+            "D": "Pour diminuer la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 123,
+        "question": "Quelle est la conséquence d’un alignement incorrect du traducteur sur une petite pièce cylindrique ?",
+        "choix": {
+            "A": "Une mauvaise orientation peut faire rater la zone d’intérêt et perdre les échos de défauts",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion diminue"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 124,
+        "question": "Pourquoi une forte atténuation du signal est-elle un problème en contrôle ultrasonore ?",
+        "choix": {
+            "A": "Parce qu’elle absorbe les échos des petits défauts, réduit la pénétration et augmente le bruit de fond",
+            "B": "Parce que la température augmente",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 125,
+        "question": "Dans un contrôle multi-angle (phased array), que permet la focalisation dynamique ?",
+        "choix": {
+            "A": "De concentrer l’énergie sur différentes profondeurs pour optimiser la détection à chaque zone",
+            "B": "D’augmenter la température",
+            "C": "D’augmenter la largeur d’impulsion",
+            "D": "De changer la couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 126,
+        "question": "Pourquoi la documentation précise des conditions de contrôle est-elle nécessaire ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la répétabilité et l’interprétation correcte des résultats",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 127,
+        "question": "Quand est-il préférable d’utiliser le contrôle par mode “pulse-echo” plutôt qu’en transmission traversante ?",
+        "choix": {
+            "A": "Pour localiser précisément des défauts à différentes profondeurs à partir d’une seule face",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 128,
+        "question": "Quelle est l’importance d’enregistrer les réglages et les signaux lors d’un contrôle automatique critique ?",
+        "choix": {
+            "A": "Pour pouvoir justifier, vérifier et refaire l’analyse en cas de litige ou d’expertise ultérieure",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 129,
+        "question": "Pourquoi la maîtrise des unités (mm/μs, mm, MHz) est-elle importante en contrôle US ?",
+        "choix": {
+            "A": "Pour éviter les erreurs d’interprétation, de réglage et de mesure des distances, vitesses et fréquences",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 130,
+        "question": "Qu’apporte la mesure de l’amplitude d’un écho en contrôle US ?",
+        "choix": {
+            "A": "Elle permet d’estimer la taille ou l’orientation d’un défaut (avec précautions)",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 131,
+        "question": "Pourquoi la température de la pièce à contrôler doit-elle être notée pour certaines applications critiques ?",
+        "choix": {
+            "A": "Parce qu’elle peut influencer la vitesse des ondes, l’atténuation et la calibration",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la largeur d’impulsion",
+            "D": "Pour chauffer la pièce"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 132,
+        "question": "Pourquoi faut-il éviter la superposition de signaux sur l’oscilloscope en contrôle ultrasonore ?",
+        "choix": {
+            "A": "Pour pouvoir identifier correctement chaque écho, sa provenance et sa signification",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 133,
+        "question": "Pourquoi le contrôle US ne remplace-t-il pas toujours les autres méthodes de CND ?",
+        "choix": {
+            "A": "Parce que chaque méthode a ses limites, sensibilités et domaines d’application, il faut les combiner pour une analyse complète",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 134,
+        "question": "Pourquoi un rapport final de contrôle US doit-il contenir tous les réglages utilisés et une cartographie des indications ?",
+        "choix": {
+            "A": "Pour permettre la traçabilité, l’analyse postérieure, et la comparaison lors d’un futur contrôle",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 135,
+        "question": "Pourquoi une documentation précise des conditions de contrôle est-elle nécessaire ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la répétabilité et l’interprétation correcte des résultats",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 136,
+        "question": "Pourquoi certaines pièces nécessitent un contrôle par plusieurs angles d’incidence ?",
+        "choix": {
+            "A": "Pour détecter des défauts de différentes orientations et dimensions",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la température",
+            "D": "Pour diminuer la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 137,
+        "question": "Pourquoi la notion de “porte de rejet” (blanking) est-elle utilisée en ultrasons ?",
+        "choix": {
+            "A": "Pour ignorer des signaux indésirables (zone morte, parasites) et éviter de fausses détections",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la température",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 138,
+        "question": "Pourquoi utilise-t-on une pièce de référence (étalon) lors des contrôles ?",
+        "choix": {
+            "A": "Pour vérifier la calibration, la sensibilité, la position des échos et garantir la fiabilité du contrôle",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour réduire la largeur d’impulsion",
+            "D": "Pour augmenter la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 139,
+        "question": "Que signifie “calibration du zéro” sur un appareil ultrasonore ?",
+        "choix": {
+            "A": "Réglage pour que l’appareil positionne le temps zéro au départ réel de l’impulsion, éliminant le délai électronique",
+            "B": "Augmentation de la température",
+            "C": "Réduction de la largeur d’impulsion",
+            "D": "Changement de couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 140,
+        "question": "Pourquoi le contrôle ultrasonore ne peut-il pas détecter tous les types de défauts ?",
+        "choix": {
+            "A": "Certains défauts n’ont pas la bonne orientation, taille ou contraste acoustique pour être détectés selon la configuration utilisée",
+            "B": "Parce qu’ils sont trop chauds",
+            "C": "Parce que la couleur du signal change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 141,
+        "question": "Pourquoi la zone morte varie-t-elle selon la sonde et la fréquence ?",
+        "choix": {
+            "A": "Parce qu’elle dépend de la durée de l’impulsion et du temps de réponse mécanique de la sonde",
+            "B": "À cause de la couleur du matériau",
+            "C": "À cause de la température",
+            "D": "À cause de l’atténuation"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 142,
+        "question": "Pourquoi le contrôle ultrasonore d’une soudure nécessite souvent :",
+        "choix": {
+            "A": "Des fréquences plus basses pour augmenter la pénétration et des angles adaptés pour intercepter les défauts plans",
+            "B": "Des fréquences très élevées",
+            "C": "Un seul type de sonde",
+            "D": "La suppression totale du couplage"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 143,
+        "question": "Quel effet a une pièce recouverte d’un revêtement épais (peinture, caoutchouc) sur la mesure ultrasonore ?",
+        "choix": {
+            "A": "Le revêtement crée une interface supplémentaire, absorbe/atténue le signal, augmente la zone morte et complique la mesure",
+            "B": "Il réduit la température",
+            "C": "Il change la couleur",
+            "D": "Il réduit la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 144,
+        "question": "Qu’apporte le mode de contrôle appelé “interférométrie acoustique” ?",
+        "choix": {
+            "A": "La détection de très petits déplacements ou variations d’épaisseur par analyse de phase",
+            "B": "La couleur change",
+            "C": "La température varie",
+            "D": "La largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 145,
+        "question": "Que signifie une disparition soudaine de l’écho de fond lors d’un balayage ?",
+        "choix": {
+            "A": "Un défaut traversant ou une délamination interceptant complètement l’onde",
+            "B": "Un très bon couplage",
+            "C": "Une augmentation de la température",
+            "D": "Une baisse de la fréquence"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 146,
+        "question": "Pourquoi la zone morte est-elle problématique lors du contrôle de pièces fines ?",
+        "choix": {
+            "A": "Parce qu’elle peut masquer un défaut proche de la surface ou empêcher la mesure d’épaisseur",
+            "B": "Parce qu’elle augmente la température",
+            "C": "Parce qu’elle change la couleur",
+            "D": "Parce qu’elle augmente la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 147,
+        "question": "Pourquoi la fréquence du traducteur doit-elle être adaptée à la taille de la pièce et du défaut recherché ?",
+        "choix": {
+            "A": "Une fréquence trop basse ne verra pas les petits défauts, une trop haute sera trop atténuée",
+            "B": "Pour la couleur du matériau",
+            "C": "Pour la température",
+            "D": "Pour réduire la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 149,
+        "question": "Que fait-on si un défaut donne un écho faible ?",
+        "choix": {
+            "A": "On augmente le gain prudemment, on ajuste la porte, on vérifie le couplage et la fréquence, et on compare à un étalon",
+            "B": "On change la couleur de la pièce",
+            "C": "On baisse la température",
+            "D": "On réduit la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 150,
+        "question": "Pourquoi faut-il noter précisément la position du point de contact de la sonde lors de mesures d’épaisseur ?",
+        "choix": {
+            "A": "Pour pouvoir reproduire la mesure au même endroit, suivre l’évolution et éviter les erreurs d’interprétation",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 151,
+        "question": "Pourquoi faut-il indiquer l’incertitude de mesure en contrôle ultrasonore ?",
+        "choix": {
+            "A": "Pour connaître la précision et les limites de la méthode dans chaque configuration",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 152,
+        "question": "Quel est l’intérêt d’un contrôle par ultrasons en mode “C-scan” ?",
+        "choix": {
+            "A": "Obtenir une image de la pièce en plan (carte 2D) avec la position et l’amplitude des défauts sur toute la surface balayée",
+            "B": "Augmenter la température",
+            "C": "Réduire la largeur d’impulsion",
+            "D": "Augmenter la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 153,
+        "question": "Pourquoi la géométrie de la pièce influe-t-elle sur l’interprétation des signaux ?",
+        "choix": {
+            "A": "Les formes complexes créent des réflexions multiples, des échos parasites et des zones d’ombre",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur du matériau change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 154,
+        "question": "Que permet la méthode “écho par le fond” (backwall echo) ?",
+        "choix": {
+            "A": "De mesurer l’épaisseur et détecter des défauts traversants ou des délaminations",
+            "B": "De chauffer la pièce",
+            "C": "D’augmenter la largeur d’impulsion",
+            "D": "De diminuer la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 155,
+        "question": "Quel type de défaut est plus difficile à détecter par incidence normale ?",
+        "choix": {
+            "A": "Un défaut plan perpendiculaire à la surface",
+            "B": "Un défaut orienté incliné (oblique) ou parallèle à la direction du faisceau",
+            "C": "Un défaut très gros",
+            "D": "Un défaut très profond"
+        },
+        "bonne_reponse": "B"
+    },
+    {
+        "numero": 156,
+        "question": "Pourquoi l’atténuation augmente-t-elle généralement avec la fréquence ?",
+        "choix": {
+            "A": "Parce que les pertes d’absorption et de diffusion augmentent avec la fréquence",
+            "B": "Parce que la couleur du matériau change",
+            "C": "Parce que la température diminue",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 157,
+        "question": "Que permet de détecter le mode d’onde Lamb en plaques fines ?",
+        "choix": {
+            "A": "Des défauts dans toute l’épaisseur, grâce à la propagation complexe et la sensibilité multi-modes",
+            "B": "Des défauts très gros uniquement",
+            "C": "La couleur du matériau",
+            "D": "La température"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 158,
+        "question": "Dans quels cas utilise-t-on des ondes de surface Rayleigh ?",
+        "choix": {
+            "A": "Pour détecter des défauts très proches de la surface",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour augmenter la zone morte",
+            "D": "Pour réduire la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 159,
+        "question": "Pourquoi faut-il éviter un couplant trop visqueux ou trop épais ?",
+        "choix": {
+            "A": "Il absorbe et disperse le signal, créant une perte d’énergie et des échos parasites",
+            "B": "Il augmente la température",
+            "C": "Il réduit la largeur d’impulsion",
+            "D": "Il change la couleur du signal"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 160,
+        "question": "Pourquoi l’épaisseur minimale mesurable dépend-elle de la largeur d’impulsion et de la fréquence ?",
+        "choix": {
+            "A": "Une impulsion large ou une basse fréquence ne permet pas de séparer deux échos très proches (entrée et fond)",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 161,
+        "question": "Pourquoi la directivité du faisceau peut-elle limiter la détection dans certaines zones d’une pièce complexe ?",
+        "choix": {
+            "A": "Le faisceau peut ne pas atteindre certaines zones ou créer des zones d’ombre",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 162,
+        "question": "Pourquoi faut-il synchroniser précisément l’avance de la sonde et l’enregistrement des signaux en contrôle automatisé ?",
+        "choix": {
+            "A": "Pour que la cartographie des défauts corresponde à la position réelle, évitant tout décalage spatial",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour réduire la largeur d’impulsion",
+            "D": "Pour changer la couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 163,
+        "question": "Que signifie “corrélation temporelle” en contrôle ultrasonore ?",
+        "choix": {
+            "A": "Comparer le temps d’écho de différents signaux pour identifier la position ou la taille des défauts",
+            "B": "Changer la couleur",
+            "C": "Augmenter la température",
+            "D": "Réduire la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 164,
+        "question": "Pourquoi est-il important d’indiquer l’incertitude de mesure en contrôle ultrasonore ?",
+        "choix": {
+            "A": "Pour connaître la précision et les limites de la méthode dans chaque configuration",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 165,
+        "question": "Pourquoi la documentation complète du contrôle est-elle indispensable en contexte industriel ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la reproductibilité et permettre un audit ultérieur fiable",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 166,
+        "question": "Quel est l’avantage du contrôle US multiélément (phased array) sur une zone étendue ?",
+        "choix": {
+            "A": "La possibilité de balayer électroniquement plusieurs angles et profondeurs sans bouger la sonde",
+            "B": "La couleur change",
+            "C": "La température varie",
+            "D": "La largeur d’impulsion diminue"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 167,
+        "question": "Pourquoi l’identification du mode d’onde reçu est-elle importante lors d’une analyse avancée ?",
+        "choix": {
+            "A": "Parce que chaque mode a une vitesse, une atténuation et une sensibilité différente aux défauts",
+            "B": "Parce que la couleur change",
+            "C": "Parce que la température varie",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 168,
+        "question": "Pourquoi la maîtrise des unités (mm/μs, mm, MHz) est-elle importante en contrôle US ?",
+        "choix": {
+            "A": "Pour éviter les erreurs d’interprétation, de réglage et de mesure des distances, vitesses et fréquences",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 169,
+        "question": "Qu’apporte le filtrage électronique lors de la détection de petits défauts en présence de bruit de structure ?",
+        "choix": {
+            "A": "Il permet d’améliorer le rapport signal/bruit et de mieux isoler les échos des petits défauts",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 170,
+        "question": "Pourquoi une pièce multicouche nécessite-t-elle souvent plusieurs réglages de vitesse pour le contrôle ?",
+        "choix": {
+            "A": "Chaque couche a sa propre vitesse de propagation, donc son propre temps de vol",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 171,
+        "question": "Pourquoi la position du point de contact de la sonde doit-elle être notée précisément lors des mesures d’épaisseur ?",
+        "choix": {
+            "A": "Pour pouvoir reproduire la mesure au même endroit, suivre l’évolution et éviter les erreurs d’interprétation",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 172,
+        "question": "Pourquoi la température de la pièce à contrôler doit-elle être notée pour certaines applications critiques ?",
+        "choix": {
+            "A": "Parce qu’elle peut influencer la vitesse des ondes, l’atténuation et la calibration",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la largeur d’impulsion",
+            "D": "Pour chauffer la pièce"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 173,
+        "question": "En contrôle US, pourquoi faut-il enregistrer les réglages de chaque contrôle automatisé ?",
+        "choix": {
+            "A": "Pour assurer la reproductibilité, la traçabilité et l’interprétation correcte des résultats ultérieurs",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 174,
+        "question": "Pourquoi le contrôle US ne remplace-t-il pas toujours les autres méthodes de CND ?",
+        "choix": {
+            "A": "Parce que chaque méthode a ses limites, sensibilités et domaines d’application, il faut les combiner pour une analyse complète",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 175,
+        "question": "Pourquoi la géométrie de la pièce influe-t-elle sur l’interprétation des signaux ?",
+        "choix": {
+            "A": "Les formes complexes créent des réflexions multiples, des échos parasites et des zones d’ombre",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur du matériau change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 176,
+        "question": "Quel est l’intérêt du contrôle par ultrasons en mode “C-scan” ?",
+        "choix": {
+            "A": "Obtenir une image de la pièce en plan (carte 2D) avec la position et l’amplitude des défauts sur toute la surface balayée",
+            "B": "Augmenter la température",
+            "C": "Réduire la largeur d’impulsion",
+            "D": "Augmenter la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 177,
+        "question": "Que signifie “porte de défaut” en ultrasons ?",
+        "choix": {
+            "A": "La sélection d’une zone temporelle ou spatiale sur l’oscilloscope pour déclencher une alarme ou mesurer une amplitude",
+            "B": "Une augmentation de la température",
+            "C": "Un changement de couleur",
+            "D": "Une augmentation de la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 178,
+        "question": "Pourquoi le contrôle US automatisé nécessite-t-il une synchronisation précise entre l’avance de la sonde et l’enregistrement des signaux ?",
+        "choix": {
+            "A": "Pour que la cartographie des défauts corresponde à la position réelle, évitant tout décalage spatial",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour réduire la largeur d’impulsion",
+            "D": "Pour changer la couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 179,
+        "question": "Pourquoi la “porte de rejet” (blanking) est-elle utilisée en ultrasons ?",
+        "choix": {
+            "A": "Pour ignorer des signaux indésirables (zone morte, parasites) et éviter de fausses détections",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la température",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 180,
+        "question": "Pourquoi une documentation précise des conditions de contrôle est-elle nécessaire ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la répétabilité et l’interprétation correcte des résultats",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 181,
+        "question": "Pourquoi une mauvaise calibration de la vitesse ultrasonore entraîne-t-elle une erreur dans la localisation des défauts ?",
+        "choix": {
+            "A": "Parce que la profondeur calculée à partir du temps d’écho dépend directement de la vitesse réglée",
+            "B": "Parce que l’amplitude du signal dépend de la vitesse",
+            "C": "Parce que la fréquence change",
+            "D": "Parce que la zone morte augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 182,
+        "question": "Pourquoi la géométrie de la pièce influe-t-elle sur la propagation des ultrasons ?",
+        "choix": {
+            "A": "Des formes complexes créent des réflexions multiples, des zones d’ombre et des perturbations du faisceau",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur du matériau change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 183,
+        "question": "Pourquoi la fréquence du traducteur doit-elle être adaptée à la taille de la pièce et du défaut recherché ?",
+        "choix": {
+            "A": "Une fréquence trop basse ne verra pas les petits défauts, une trop haute sera trop atténuée",
+            "B": "Pour la couleur du matériau",
+            "C": "Pour la température",
+            "D": "Pour réduire la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 184,
+        "question": "Pourquoi le contrôle par ultrasons ne détecte-t-il pas tous les défauts d’une pièce ?",
+        "choix": {
+            "A": "Certains défauts peuvent être mal orientés, trop petits ou avoir un contraste acoustique insuffisant",
+            "B": "Parce que la température de la pièce est trop basse",
+            "C": "Parce que la couleur de la pièce change",
+            "D": "Parce que la largeur d’impulsion est trop grande"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 185,
+        "question": "Pourquoi la discrimination spatiale dépend-elle de la fréquence et de la largeur d’impulsion ?",
+        "choix": {
+            "A": "Parce qu’une fréquence élevée et une impulsion courte améliorent la capacité à séparer deux défauts proches",
+            "B": "Parce que la température diminue",
+            "C": "Parce que la couleur du matériau change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 186,
+        "question": "Pourquoi l’épaisseur minimale mesurable dépend-elle de la largeur d’impulsion et de la fréquence ?",
+        "choix": {
+            "A": "Une impulsion large ou une basse fréquence ne permet pas de séparer deux échos très proches (entrée et fond)",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 187,
+        "question": "Pourquoi la directivité du faisceau peut-elle limiter la détection dans certaines zones d’une pièce complexe ?",
+        "choix": {
+            "A": "Le faisceau peut ne pas atteindre certaines zones ou créer des zones d’ombre",
+            "B": "Parce que la température change",
+            "C": "Parce que la couleur change",
+            "D": "Parce que la largeur d’impulsion augmente"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 188,
+        "question": "Pourquoi l’incertitude de mesure doit-elle être indiquée lors d’un contrôle US ?",
+        "choix": {
+            "A": "Pour connaître la précision et les limites de la méthode dans chaque configuration",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 189,
+        "question": "Pourquoi faut-il enregistrer les réglages de chaque contrôle automatisé ?",
+        "choix": {
+            "A": "Pour assurer la reproductibilité, la traçabilité et l’interprétation correcte des résultats ultérieurs",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 190,
+        "question": "Pourquoi une documentation complète du contrôle est-elle indispensable en contexte industriel ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la reproductibilité et permettre un audit ultérieur fiable",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 191,
+        "question": "Quel est l’avantage principal du contrôle ultrasonore automatisé par rapport au contrôle manuel ?",
+        "choix": {
+            "A": "La reproductibilité, la rapidité et la traçabilité des résultats",
+            "B": "Le coût inférieur",
+            "C": "La simplicité du matériel",
+            "D": "La réduction de la zone morte"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 192,
+        "question": "Pourquoi faut-il bien calibrer l’appareil de contrôle ultrasonore avant chaque mesure ?",
+        "choix": {
+            "A": "Pour garantir la fiabilité des mesures et l’identification correcte des échos",
+            "B": "Pour s’assurer de la bonne température",
+            "C": "Pour éviter l’usure du traducteur",
+            "D": "Pour changer la couleur de l’écran"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 193,
+        "question": "Pourquoi la zone morte varie-t-elle selon la sonde et la fréquence ?",
+        "choix": {
+            "A": "Parce qu’elle dépend de la durée de l’impulsion et du temps de réponse mécanique de la sonde",
+            "B": "À cause de la couleur du matériau",
+            "C": "À cause de la température",
+            "D": "À cause de l’atténuation"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 194,
+        "question": "Pourquoi la température de la pièce à contrôler doit-elle être notée pour certaines applications critiques ?",
+        "choix": {
+            "A": "Parce qu’elle peut influencer la vitesse des ondes, l’atténuation et la calibration",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la largeur d’impulsion",
+            "D": "Pour chauffer la pièce"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 195,
+        "question": "Quel est l’intérêt principal de la synchronisation de l’avance de la sonde et de l’enregistrement des signaux en contrôle automatisé ?",
+        "choix": {
+            "A": "Pour que la cartographie des défauts corresponde à la position réelle, évitant tout décalage spatial",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour réduire la largeur d’impulsion",
+            "D": "Pour changer la couleur"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 196,
+        "question": "Pourquoi l’utilisation de plusieurs angles d’incidence est-elle parfois nécessaire ?",
+        "choix": {
+            "A": "Pour détecter des défauts de différentes orientations et dimensions",
+            "B": "Pour changer la couleur",
+            "C": "Pour augmenter la température",
+            "D": "Pour diminuer la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 197,
+        "question": "Pourquoi la maîtrise des unités (mm/μs, mm, MHz) est-elle importante en contrôle US ?",
+        "choix": {
+            "A": "Pour éviter les erreurs d’interprétation, de réglage et de mesure des distances, vitesses et fréquences",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 198,
+        "question": "Pourquoi l’enregistrement des réglages et des signaux est-il indispensable en contrôle automatisé ?",
+        "choix": {
+            "A": "Pour pouvoir justifier, vérifier et refaire l’analyse en cas de litige ou d’expertise ultérieure",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 199,
+        "question": "Pourquoi la documentation précise des conditions de contrôle est-elle nécessaire ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la répétabilité et l’interprétation correcte des résultats",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    },
+    {
+        "numero": 200,
+        "question": "Pourquoi la documentation complète du contrôle est-elle indispensable en contexte industriel ?",
+        "choix": {
+            "A": "Pour garantir la traçabilité, la reproductibilité et permettre un audit ultérieur fiable",
+            "B": "Pour chauffer la pièce",
+            "C": "Pour changer la couleur",
+            "D": "Pour augmenter la largeur d’impulsion"
+        },
+        "bonne_reponse": "A"
+    }
+]
+
+
