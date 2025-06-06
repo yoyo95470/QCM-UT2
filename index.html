@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur de QCM Ultrasons</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>QCM Ultrasons Niveau 2</h1>
+        <div class="controls">
+            <button id="generate-btn">Générer un nouveau QCM</button>
+            <button id="submit-btn">Soumettre les réponses</button>
+        </div>
+        <div id="timer">Temps restant: 90:00</div>
+        <div id="qcm-container"></div>
+        <div id="results" class="hidden">
+            <h2>Résultats</h2>
+            <p id="score"></p>
+            <div id="corrections"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
