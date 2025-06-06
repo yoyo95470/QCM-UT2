@@ -1,0 +1,1845 @@
+{
+  "examen": "UT2 Niveau 2 - Cofrend",
+  "questions": [
+    {
+      "id": 1,
+      "question": "La vibration, produisant l'impulsion de longueur d'onde la plus courte, pour une fréquence donnée et dans un matériau donné, est :",
+      "options": {
+        "A": "L'onde longitudinale",
+        "B": "L'onde de compression", 
+        "C": "L'onde de cisaillement",
+        "D": "L'onde de surface"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 2,
+      "question": "La formule = désigne :",
+      "options": {
+        "A": "La formule du rapport d'impédance acoustique",
+        "B": "La formule de conversion des phases",
+        "C": "La formule de la zone de Fresnel",
+        "D": "La loi de Snell-Descartes"
+      },
+      "reponse": "D"
+    },
+    {
+      "id": 3,
+      "question": "La formule = est utilisée pour :",
+      "options": {
+        "A": "L'angle de réfraction",
+        "B": "Les vitesses des phases",
+        "C": "La quantité d'énergie sonore réfléchie",
+        "D": "L'impédance acoustique"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 4,
+      "question": "Une onde ultrasonore est transmise à travers l'interface de deux matériaux. Si le premier matériau a une valeur d'impédance acoustique supérieure mais la même valeur de vitesse que le second matériau, l'angle de réfraction sera :",
+      "options": {
+        "A": "Plus grand que l'angle d'incidence",
+        "B": "Inférieur à l'angle d'incidence",
+        "C": "Le même que l'angle d'incidence",
+        "D": "Au-delà de l'angle critique"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 5,
+      "question": "Le produit de la vitesse de propagation du son dans un matériau par sa masse volumique est :",
+      "options": {
+        "A": "La valeur de réfraction du matériau",
+        "B": "L'impédance acoustique du matériau",
+        "C": "La constante élastique du matériau",
+        "D": "Le coefficient de Poisson du matériau"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 6,
+      "question": "A l'interface eau-acier et sous une incidence de 7°, les ondes ultrasonores réfractées sont :",
+      "options": {
+        "A": "Longitudinales",
+        "B": "Transversales",
+        "C": "Longitudinales et transversales",
+        "D": "De surface"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 7,
+      "question": "Dans la technique de contrôle par immersion dans l'eau de barres en acier, l'angle critique d'incidence pour les ondes de mode longitudinal est de l'ordre de (célérité des ondes longitudinales dans l'acier : 5950 m/s, dans l'eau : 1480 m/s) :",
+      "options": {
+        "A": "7°",
+        "B": "14°",
+        "C": "30°",
+        "D": "90°"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 8,
+      "question": "Une onde ultrasonore de mode longitudinal se propage dans un matériau à la vitesse de 6000 m/s. Si la fréquence est de 2 MHz, quelle est sa longueur d'onde ?",
+      "options": {
+        "A": "0,3 mm",
+        "B": "3 mm",
+        "C": "3 cm",
+        "D": "0,3 m"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 9,
+      "question": "Si une onde ultrasonore de mode longitudinal se propage et passe de l'eau dans l'acier avec un angle d'incidence de 5°, l'angle de réfraction de l'onde ultrasonore transversale est :",
+      "options": {
+        "A": "Inférieur à l'angle de réfraction de l'onde longitudinale transmise",
+        "B": "Egal à l'angle de réfraction de l'onde longitudinale transmise",
+        "C": "Supérieur à l'angle de réfraction de l'onde longitudinale transmise",
+        "D": "Dans ce cas, il n'y aura pas d'onde transversale transmise"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 10,
+      "question": "L'élément piézo-électrique d'un traducteur à ondes longitudinales vibrant à la fréquence de 1 MHz a une épaisseur d'environ (célérité dans le piezo 5720 m/s) :",
+      "options": {
+        "A": "0,6 cm",
+        "B": "2,8 mm",
+        "C": "1 mm",
+        "D": "28 mm"
+      },
+      "reponse": "B"
+    },
+      {
+      "id": 11,
+      "question": "L'épaisseur d'une tôle d'acier étant de 1 cm et la vitesse de propagation de l'onde de mode longitudinal dans l'acier de 5950 m/s, la fréquence ultrasonore fondamentale de résonance sera voisine de :",
+      "options": {
+        "A": "3 MHz",
+        "B": "0,3 MHz",
+        "C": "30 Hz",
+        "D": "0,3 kHz"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 12,
+      "question": "L'impédance acoustique d'un milieu est :",
+      "options": {
+        "A": "Utilisée pour calculer l'angle de réflexion",
+        "B": "Le produit de la masse volumique du milieu par la vitesse de propagation des ultrasons dans ce milieu",
+        "C": "Trouvée par la loi de Descartes",
+        "D": "Utilisée pour déterminer les valeurs de la résonance"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 13,
+      "question": "Le rapport entre la vitesse des ondes ultrasonores dans un premier matériau et la vitesse des ondes ultrasonores dans un second matériau s'appellent :",
+      "options": {
+        "A": "L'impédance acoustique de l'interface",
+        "B": "Le module d'Young",
+        "C": "Le coefficient de Poisson",
+        "D": "L'indice de réfraction"
+      },
+      "reponse": "D"
+    },
+    {
+      "id": 14,
+      "question": "La relation entre la longueur d'onde, la vitesse de propagation et la fréquence est :",
+      "options": {
+        "A": "Longueur d'onde = vitesse × fréquence",
+        "B": "Longueur d'onde = fréquence/vitesse",
+        "C": "Longueur d'onde = vitesse/fréquence",
+        "D": "Longueur d'onde = fréquence + vitesse"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 15,
+      "question": "Le contrôle par immersion dans l'eau d'une pièce en acier est effectué dans les conditions suivantes : angle d'incidence de l'onde longitudinale: 5°, vitesse de propagation des ultrasons dans l'eau : 1480 m/s, dans l'acier 5950 m/s. Quel est l'angle de réfraction de l'onde longitudinale transmise ?",
+      "options": {
+        "A": "5°",
+        "B": "20°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 16,
+      "question": "La divergence d'un faisceau est fonction des dimensions du transducteur et de la longueur d'onde du faisceau transmis dans un milieu et elle :",
+      "options": {
+        "A": "Augmente si la fréquence ou le diamètre du transducteur diminue",
+        "B": "Diminue si la fréquence ou le diamètre du transducteur diminue",
+        "C": "Augmente si la fréquence augmente et le diamètre du transducteur diminue",
+        "D": "Diminue si la fréquence augmente et le diamètre du transducteur diminue"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 17,
+      "question": "La longueur d'onde d'une onde ultrasonore est :",
+      "options": {
+        "A": "Directement proportionnelle à la vitesse de propagation et à la fréquence de cette onde",
+        "B": "Directement proportionnelle à la vitesse de propagation et inversement proportionnelle à sa fréquence",
+        "C": "Inversement proportionnelle à la vitesse et directement proportionnelle à la fréquence",
+        "D": "Egale au produit de la vitesse par la fréquence"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 18,
+      "question": "L'impédance acoustique d'un milieu est :",
+      "options": {
+        "A": "Directement proportionnelle à la masse volumique et inversement proportionnelle à la vitesse des ultrasons dans le milieu",
+        "B": "Directement proportionnelle à la vitesse et inversement proportionnelle à la masse volumique",
+        "C": "Inversement proportionnelle à la masse volumique et à la vitesse",
+        "D": "Egale au produit de la masse volumique par la vitesse"
+      },
+      "reponse": "D"
+    },
+    {
+      "id": 19,
+      "question": "La formule utilisée pour calculer le demi-angle d'ouverture (θ) du faisceau d'un transducteur circulaire de diamètre D est :",
+      "options": {
+        "A": "sin θ = (D/2) × λ",
+        "B": "sin θ = D × C",
+        "C": "sin θ = 1,22 λ/D",
+        "D": "sin θ/2 = 1,22 f/λ"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 20,
+      "question": "La vitesse de propagation des ultrasons dans l'acier étant de 5950 m/s, pour parcourir 1 mm il faut :",
+      "options": {
+        "A": "0,168 microseconde",
+        "B": "1,68 microseconde",
+        "C": "0,168 × 10⁻⁴ seconde",
+        "D": "1,68 seconde"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 21,
+      "question": "Dans la figure ci-dessous, l'angle de réfraction dans le milieu 2 est : (Données : V₁ = 4000 m/s, V₂ = 3500 m/s, angle d'incidence = 30°)",
+      "options": {
+        "A": "Inférieur à 30°",
+        "B": "Compris entre 30° et 45°",
+        "C": "Egal à 45°",
+        "D": "Supérieur à 45°"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 22,
+      "question": "La longueur N₀ du champ proche (zone de Fresnel) est donnée par la formule suivante :",
+      "options": {
+        "A": "N₀ = D/(2λ)",
+        "B": "N₀ = D²/(4λ)",
+        "C": "N₀ = fD²/(4c)",
+        "D": "Les réponses B + C"
+      },
+      "reponse": "D"
+    },
+    {
+      "id": 23,
+      "question": "La longueur d'onde correspondant à une fréquence de 4 MHz et une vitesse de propagation de 5900 m/s est de :",
+      "options": {
+        "A": "6,78 mm",
+        "B": "0,678 mm",
+        "C": "1,475 mm",
+        "D": "2,66 mm"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 24,
+      "question": "Afin de positionner par rapport au traducteur une indication décelée par ultrasons en ondes transversales avec un angle réfracté (r), quelle formule faut-il utiliser si l'étalonnage en distance a été effectué en parcours sonore ?",
+      "options": {
+        "A": "X = PS.sin r",
+        "B": "X = PS.cos r",
+        "C": "X = PS.tg r",
+        "D": "Aucune de ces réponses"
+      },
+      "reponse": "C"
+    },
+    {
+      "id": 101,
+      "question": "Les ondes de cisaillement détectent mieux les petites discontinuités que les ondes longitudinales pour une fréquence donnée et un matériau donné car :",
+      "options": {
+        "A": "La longueur d'onde des ondes de cisaillement est plus courte que celle des ondes longitudinales",
+        "B": "Les ondes de cisaillement se dispersent peu dans le matériau",
+        "C": "La direction de vibration des particules pour les ondes de cisaillement les rend plus sensibles aux discontinuités",
+        "D": "La longueur d'onde des ondes de cisaillement est plus longue que celle des ondes longitudinales"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 102,
+      "question": "En général, quel mode de vibration ultrasonore, à une fréquence donnée, a le plus grand pouvoir de pénétration dans un matériau à gros grains :",
+      "options": {
+        "A": "Le mode longitudinal",
+        "B": "Le mode de cisaillement",
+        "C": "Le mode transversal",
+        "D": "Tous les modes précédents A, B, C ont le même pouvoir de pénétration"
+      },
+      "reponse": "A"
+    },
+    {
+      "id": 103,
+      "question": "Un dispositif qui transforme l'énergie d'une forme en une autre s'appelle :",
+      "options": {
+        "A": "Un transmetteur",
+        "B": "Un émetteur",
+        "C": "Un séparateur",
+        "D": "Un transducteur"
+      },
+      "reponse": "D"
+    },
+    {
+      "id": 104,
+      "question": "Pour une onde ultrasonore en cours de propagation, la distance minimale de deux points vibrant en phase s'appelle :",
+      "options": {
+        "A": "Fréquence",
+        "B": "Longueur d'onde",
+        "C": "Vitesse",
+        "D": "Longueur d'impulsion"
+      },
+      "reponse": "B"
+    },
+    {
+      "id": 105,
+      "question": "Les éléments actifs choisis le plus fréquemment pour construire les traducteurs ultrasonores fonctionnent selon le principe :",
+      "options": {
+        "A": "De la magnétostriction",
+        "B": "De la piézo-électricité ou de la ferro-électricité",
+        "C": "De la conversion des modes",
+        "D": "Ni A, ni B, ni C"
+      },
+      "reponse": "B"
+    },
+      {
+    "id": 106,
+    "question": "La quantité d'énergie réfléchie par une discontinuité dépend :",
+    "options": {
+      "A": "De la taille de la discontinuité",
+      "B": "De l'orientation de la discontinuité",
+      "C": "Du type de la discontinuité",
+      "D": "De toutes les caractéristiques mentionnées en A, B, C"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 107,
+    "question": "Pour laquelle des fréquences suivantes, la plus forte atténuation des ondes ultrasonores se produit-elle ?",
+    "options": {
+      "A": "1 MHz",
+      "B": "2 MHz",
+      "C": "10 MHz",
+      "D": "25 MHz"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 108,
+    "question": "Tant que l'amplitude de l'écho d'une discontinuité augmente proportionnellement à la surface de celle-ci, la variation est dite :",
+    "options": {
+      "A": "Logarithmique",
+      "B": "Linéaire",
+      "C": "Sélective",
+      "D": "Exponentielle"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 109,
+    "question": "Quelle fréquence d'onde ultrasonore donne la meilleure pénétration dans un échantillon à gros grains de 30 cm d'épaisseur ?",
+    "options": {
+      "A": "2 MHz",
+      "B": "1 MHz",
+      "C": "4 MHz",
+      "D": "10 MHz"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 110,
+    "question": "Laquelle des caractéristiques suivantes s'applique aux ondes de cisaillement ?",
+    "options": {
+      "A": "Mouvement des particules perpendiculaire à la direction de propagation et vitesse de propagation qui est d'environ la moitié de la vitesse des ondes longitudinales dans l'acier",
+      "B": "Sensibilité exceptionnellement élevée due à une faible atténuation résultant de longueurs d'ondes plus grandes lorsqu'il y a propagation dans l'eau",
+      "C": "Bonne efficacité de couplage car les ondes de cisaillement sont moins sensibles aux caractéristiques de la surface lorsqu'elles passent du milieu de couplage à la pièce",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 111,
+    "question": "Parmi les ondes des modes suivants, lesquelles sont généralement les plus rapidement amorties ?",
+    "options": {
+      "A": "Ondes longitudinales",
+      "B": "Ondes de cisaillement",
+      "C": "Ondes transversales",
+      "D": "Ondes de surface"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 112,
+    "question": "En réalisant, dans des conditions identiques, le contrôle d'une même pièce avec des traducteurs de fréquences croissantes, on observe :",
+    "options": {
+      "A": "Une diminution de sensibilité dans la détection des défauts",
+      "B": "Une augmentation de l'atténuation de l'énergie ultrasonore",
+      "C": "Aucune modification dans la transmission du faisceau d'ondes",
+      "D": "Une augmentation de la largeur d'écho d'entrée dans le matériau"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 113,
+    "question": "La dilatation et la contraction d'un matériau magnétique sous l'influence d'un champ magnétique changeant de sens se désigne sous le nom de :",
+    "options": {
+      "A": "Piézo-électricité",
+      "B": "Perméabilité magnétique",
+      "C": "Magnétostriction",
+      "D": "Amortissement"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 114,
+    "question": "Une atténuation importante des ultrasons dans une pièce peut résulter :",
+    "options": {
+      "A": "D'une structure à grains extrêmement fins",
+      "B": "D'une structure à grains grossiers",
+      "C": "D'une fréquence trop basse",
+      "D": "D'un état de surface trop fin"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 115,
+    "question": "La partie du champ ultrasonore d'un traducteur dans laquelle la pression acoustique ne décroît pas de façon monotone avec la distance s'appelle :",
+    "options": {
+      "A": "Champ éloigné",
+      "B": "Champ proche",
+      "C": "Zone de Fresnel",
+      "D": "B + C"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 116,
+    "question": "Il est admis que, pour être détectable, une discontinuité doit présenter une dimension transversale au moins égale à :",
+    "options": {
+      "A": "Plus de deux fois la longueur d'onde ultrasonore",
+      "B": "Une longueur d'onde ultrasonore",
+      "C": "Une demi-longueur d'onde ultrasonore",
+      "D": "Deux fois la longueur d'onde ultrasonore"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 117,
+    "question": "Des discontinuités situées près de la face d'entrée peuvent ne pas être détectées à cause :",
+    "options": {
+      "A": "Des effets du champ lointain",
+      "B": "De l'atténuation",
+      "C": "Des phénomènes de réfraction",
+      "D": "De la largeur de l'écho d'entrée"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 118,
+    "question": "La propriété de certains matériaux de transformer l'énergie électrique en énergie ultrasonore et réciproquement s'appelle :",
+    "options": {
+      "A": "La conversion de mode",
+      "B": "L'effet piézo-électrique",
+      "C": "L'adaptation d'impédance",
+      "D": "L'effet Raman"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 119,
+    "question": "Une discontinuité dont la surface est sphérique et concave :",
+    "options": {
+      "A": "Diffuse l'énergie ultrasonore",
+      "B": "Focalise l'énergie ultrasonore réfléchie",
+      "C": "Ne réfléchit pas les ultrasons",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 120,
+    "question": "Quelle est l'unité de mesure de la fréquence ?",
+    "options": {
+      "A": "Le hertz",
+      "B": "Le joule",
+      "C": "Le mètre par seconde",
+      "D": "La seconde"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 121,
+    "question": "Les ondes ultrasonores :",
+    "options": {
+      "A": "Se propagent dans le vide aussi bien que dans la matière",
+      "B": "Sont de nature électromagnétique",
+      "C": "Ont une fréquence comprise entre 10 et 10 000 Hz",
+      "D": "Ont pour origine des vibrations mécaniques d'atomes formant la matière"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 122,
+    "question": "La vitesse de propagation des ondes ultrasonores longitudinales est fonction de :",
+    "options": {
+      "A": "La fréquence",
+      "B": "La longueur d'onde",
+      "C": "La nature du matériau",
+      "D": "La période"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 123,
+    "question": "Les ondes ultrasonores dans les matériaux à contrôler sont :",
+    "options": {
+      "A": "Des ondes électromagnétiques",
+      "B": "Des champs électriques de basse tension",
+      "C": "Des ondes radio discontinues",
+      "D": "Des vibrations mécaniques"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 124,
+    "question": "Dans la plupart des cas, laquelle des fréquences suivantes conduit au meilleur pouvoir de résolution ?",
+    "options": {
+      "A": "0,5 MHz",
+      "B": "1 MHz",
+      "C": "2 MHz",
+      "D": "4 MHz"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 125,
+    "question": "Quelle est la fréquence du traducteur qui possède l'élément actif le plus mince ?",
+    "options": {
+      "A": "1 MHz",
+      "B": "4 MHz",
+      "C": "8 MHz",
+      "D": "10 MHz"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 126,
+    "question": "Quelle est la fréquence du traducteur qui possède l'élément actif le plus épais ?",
+    "options": {
+      "A": "1 MHz",
+      "B": "5 MHz",
+      "C": "15 MHz",
+      "D": "25 MHz"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 127,
+    "question": "Dans quelle zone l'amplitude d'une indication donnée diminue de façon exponentielle ?",
+    "options": {
+      "A": "Zone lointaine",
+      "B": "Zone proche",
+      "C": "Zone morte",
+      "D": "Zone de Fresnel"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 128,
+    "question": "Qu'est-ce que le phénomène de diffraction ?",
+    "options": {
+      "A": "Une méthode de dimensionnement d'indication",
+      "B": "Une méthode de caractérisation de traducteur",
+      "C": "La réémission d'une onde sphérique en tête et pieds de l'indication",
+      "D": "Réponse A et C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 129,
+    "question": "Si on modifie la fréquence du traducteur pour un contrôle donné, la vitesse des ultrasons :",
+    "options": {
+      "A": "Augmente proportionnellement",
+      "B": "Augmente exponentiellement",
+      "C": "Ne varie pas",
+      "D": "Diminue"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 201,
+    "question": "L'angle formé par la direction de propagation d'une onde ultrasonore pénétrant dans un milieu II en provenance d'un milieu I et la normale à l'interface entre les 2 milieux s'appelle :",
+    "options": {
+      "A": "L'angle d'incidence",
+      "B": "L'angle de réfraction",
+      "C": "L'angle critique",
+      "D": "L'angle de réflexion"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 202,
+    "question": "Le phénomène par lequel une onde ultrasonore frappe la limite d'un milieu dans lequel elle se déplace et change de direction tout en restant toujours dans le même milieu s'appelle :",
+    "options": {
+      "A": "Divergence",
+      "B": "Réfraction",
+      "C": "Angulation",
+      "D": "Réflexion"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 203,
+    "question": "L'angle d'incidence, pour lequel la réfraction à 90° d'une onde est atteinte, s'appelle :",
+    "options": {
+      "A": "L'angle normal d'incidence",
+      "B": "L'angle critique",
+      "C": "L'angle de réflexion maximale",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 204,
+    "question": "Lorsqu'un faisceau d'ondes ultrasonores de mode longitudinal passe de l'eau dans un milieu métallique sous incidence oblique, les angles de réfraction dépendent principalement :",
+    "options": {
+      "A": "Du rapport des impédances caractéristiques de l'eau et du métal",
+      "B": "Des vitesses relatives des ultrasons dans l'eau et le métal",
+      "C": "De la fréquence d'émission du faisceau ultrasonore",
+      "D": "Du rapport des masses volumiques de l'eau et du métal"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 205,
+    "question": "Dans lequel des milieux suivants, la vitesse de propagation des ultrasons est-elle la plus faible ?",
+    "options": {
+      "A": "L'air",
+      "B": "L'acier",
+      "C": "L'eau",
+      "D": "Le plexiglas®"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 206,
+    "question": "Lequel des milieux suivants permet la vitesse de propagation des ultrasons la plus élevée ?",
+    "options": {
+      "A": "L'air",
+      "B": "L'acier",
+      "C": "L'eau",
+      "D": "L'huile"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 207,
+    "question": "Pour quel mode de vibration la vitesse de propagation des ultrasons est la plus élevée dans l'acier ?",
+    "options": {
+      "A": "Longitudinal",
+      "B": "De cisaillement",
+      "C": "De surface",
+      "D": "La vitesse de propagation des ultrasons est identique suivant tous les modes dans un matériau donné"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 208,
+    "question": "Le coefficient de réflexion d'une onde ultrasonore incidente normale à l'interface de deux milieux dissemblables est fonction :",
+    "options": {
+      "A": "Des indices de réfraction",
+      "B": "De la fréquence de l'onde ultrasonore",
+      "C": "Des impédances acoustiques des deux milieux",
+      "D": "Du module d'Young de chaque milieu"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 209,
+    "question": "La vitesse de propagation des ultrasons dans un milieu peut être déterminée par la connaissance :",
+    "options": {
+      "A": "De la masse volumique",
+      "B": "De l'impédance acoustique",
+      "C": "A la fois de A et B",
+      "D": "Ni A, ni B"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 210,
+    "question": "Lorsque la différence des impédances acoustiques de 2 matériaux en contact augmente, la proportion d'énergie transmise à l'interface :",
+    "options": {
+      "A": "Augmente",
+      "B": "Diminue",
+      "C": "Restre constante",
+      "D": "Augmente ou diminue"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 211,
+    "question": "Dans le cas d'une onde ultrasonore parvenant à l'interface solide/air sous une incidence normale, le pourcentage d'énergie réfléchie dans le solide est voisin de :",
+    "options": {
+      "A": "100 %",
+      "B": "60 %",
+      "C": "30 %",
+      "D": "5 %"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 212,
+    "question": "Lorsqu'un faisceau ultrasonore frappe une surface très irrégulière, il se produit un phénomène de :",
+    "options": {
+      "A": "Dispersion",
+      "B": "Réfraction totale",
+      "C": "Focalisation",
+      "D": "Réflexion totale"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 213,
+    "question": "L'angle de réflexion est :",
+    "options": {
+      "A": "Egal à l'angle d'incidence",
+      "B": "Dépend du milieu de couplage",
+      "C": "Dépend de la fréquence utilisée",
+      "D": "Egal à l'angle de réfraction"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 214,
+    "question": "La position angulaire de la surface réfléchissante d'une discontinuité par rapport à la face d'entrée se désigne :",
+    "options": {
+      "A": "Angle d'incidence",
+      "B": "Angle de réfraction",
+      "C": "Orientation de la discontinuité",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 215,
+    "question": "Le changement de direction d'une onde ultrasonore passant d'un milieu dans un autre dont l'élasticité et la densité diffèrent de celles du premier milieu s'appelle :",
+    "options": {
+      "A": "Réfraction",
+      "B": "Réflexion",
+      "C": "Angulation",
+      "D": "Dispersion"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 216,
+    "question": "L'angle de réflexion d'un faisceau ultrasonore à l'interface entre l'acier et l'eau est :",
+    "options": {
+      "A": "Environ la moitié de l'angle d'incidence",
+      "B": "Environ 4 fois l'angle d'incidence",
+      "C": "Egal à l'angle d'incidence",
+      "D": "0,256 fois l'angle d'incidence"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 217,
+    "question": "Les ondes se propageant à une vitesse légèrement inférieure à celle des ondes de cisaillement et dont le mode de propagation est à la fois longitudinal et transversal par rapport à la surface sont dites :",
+    "options": {
+      "A": "De Rayleigh",
+      "B": "Transversales",
+      "C": "De Lamb",
+      "D": "Longitudinales"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 218,
+    "question": "Dans un liquide non visqueux, quel(s) mode(s) de vibration peut-on trouver ?",
+    "options": {
+      "A": "Le mode longitudinal",
+      "B": "Le mode transversal",
+      "C": "A la fois A et B",
+      "D": "Le mode de Rayleigh"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 219,
+    "question": "Les ondes dont la direction de propagation est parallèle à celle des vibrations des particules d'un matériau s'appellent :",
+    "options": {
+      "A": "Ondes de compression",
+      "B": "Ondes transversales",
+      "C": "Ondes de cisaillement",
+      "D": "Ondes de Rayleigh"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 220,
+    "question": "Lors de la propagation d'une onde transversale dans un matériau, la direction du mouvement des particules est :",
+    "options": {
+      "A": "Parallèle à la direction de propagation du faisceau ultrasonore",
+      "B": "Perpendiculaire à la direction de propagation du faisceau ultrasonore",
+      "C": "Limitée à la surface du métal et de mouvement elliptique",
+      "D": "Quelconque par rapport à la direction de propagation du faisceau ultrasonore"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 221,
+    "question": "Quel(s) phénomène(s) peut (peuvent) se produire lorsqu'un faisceau ultrasonore atteint l'interface de deux milieux dissemblables ?",
+    "options": {
+      "A": "Réflexion",
+      "B": "Réfraction",
+      "C": "Conversion de mode",
+      "D": "Tous les phénomènes ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 222,
+    "question": "Certaines ondes ultrasonores suivent des formes géométriques à grand rayon de courbure sans provoquer d'indications particulières. Ce sont des ondes :",
+    "options": {
+      "A": "Transversales",
+      "B": "Longitudinales",
+      "C": "De cisaillement",
+      "D": "De Rayleigh"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 223,
+    "question": "Les ondes de surface se propagent sur une profondeur de l'ordre de :",
+    "options": {
+      "A": "Un quart de la longueur d'onde",
+      "B": "Un dixième de leur longueur d'onde",
+      "C": "Une fois leur longueur d'onde",
+      "D": "Quatre fois leur longueur d'onde"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 224,
+    "question": "Lorsqu'une onde longitudinale parvient sur l'interface entre deux milieux solides sous un angle d'incidence non nul et inférieur à la valeur du premier angle critique, on observe :",
+    "options": {
+      "A": "Une onde réfléchie et une onde réfractée",
+      "B": "Deux ondes réfléchies",
+      "C": "Deux ondes réfléchies et une onde réfractée",
+      "D": "Deux ondes réfléchies et deux ondes réfractées"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 225,
+    "question": "Quel est l'ordre de grandeur de la vitesse de propagation des ondes ultrasonores longitudinales dans l'eau à la température ambiante ?",
+    "options": {
+      "A": "1500 m/s",
+      "B": "2000 m/s",
+      "C": "3000 m/s",
+      "D": "6000 m/s"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 301,
+    "question": "Les signaux envoyés par un générateur pour exciter le transducteur ultrasonore sont généralement des :",
+    "options": {
+      "A": "Ondes",
+      "B": "Tensions de crête",
+      "C": "Sinusoïdes",
+      "D": "Impulsions électriques"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 302,
+    "question": "Dans un appareil ultrasonore, le nombre d'impulsions électriques produites par unité de temps s'appelle :",
+    "options": {
+      "A": "La fréquence du traducteur",
+      "B": "La base de temps",
+      "C": "La fréquence de travail",
+      "D": "La fréquence de récurrence"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 303,
+    "question": "Dans un appareil à ultrasons, l'élément qui produit la tension d'excitation du traducteur s'appelle :",
+    "options": {
+      "A": "Amplificateur",
+      "B": "Récepteur",
+      "C": "Emetteur",
+      "D": "Circuit de synchronisation ou numériseur"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 304,
+    "question": "Au cours d'un essai par contact, il est possible de créer dans le matériau des ondes de cisaillement :",
+    "options": {
+      "A": "En plaçant le transducteur directement à la surface du matériau et en utilisant de l'huile comme agent de couplage",
+      "B": "En plaçant 2 traducteurs sur les faces opposées de l'échantillon à contrôler",
+      "C": "En plaçant une lentille acoustique sphérique sur la face des traducteurs",
+      "D": "En utilisant un transducteur monté sur un coin en plexiglas® de façon à ce que les ultrasons pénètrent dans la pièce suivant un angle déterminé"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 305,
+    "question": "Les traducteurs ultrasonores sont réalisés en règle générale avec un transducteur piézo-électrique ou ferro-électrique. Lequel des matériaux énumérés ci-dessous ne présente en aucune circonstance de caractéristiques piézo-électriques ou ferro-électriques ?",
+    "options": {
+      "A": "Le sulfate de lithium",
+      "B": "Le quartz",
+      "C": "Le plexiglas®",
+      "D": "Le titanate de baryum"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 306,
+    "question": "La fréquence fondamentale de vibration de l'élément piezo-électrique est principalement fonction de :",
+    "options": {
+      "A": "La durée de l'impulsion de tension appliquée",
+      "B": "Des caractéristiques d'amplification du générateur d'impulsion de l'appareil",
+      "C": "De l'épaisseur du cristal de quartz",
+      "D": "A, B et C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 307,
+    "question": "Le pouvoir de résolution en profondeur d'un traducteur est directement proportionnel :",
+    "options": {
+      "A": "A son coefficient de Poisson",
+      "B": "A la qualité de son amortissement",
+      "C": "A son épaisseur",
+      "D": "Les réponses B + C"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 308,
+    "question": "Pour obtenir dans un milieu une focalisation linéaire de l'énergie ultrasonore, les lentilles acoustiques présentent :",
+    "options": {
+      "A": "Des formes cylindriques",
+      "B": "Des formes sphériques",
+      "C": "Des formes convexes",
+      "D": "Des formes paraboliques"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 309,
+    "question": "Des traducteurs de basse fréquence ne sont généralement pas employés pour le contrôle de produits de faible épaisseur parce que :",
+    "options": {
+      "A": "Les ondes émises s'atténuent très rapidement",
+      "B": "Les longueurs d'onde des ultrasons émis sont trop courtes",
+      "C": "Leurs zones mortes sont trop importantes",
+      "D": "En fait, aucune de ces 3 conditions n'empêche ce type de contrôle"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 310,
+    "question": "Dans un traducteur, l'amortisseur a pour but de :",
+    "options": {
+      "A": "Transmettre les vibrations ultrasonores au câble coaxial",
+      "B": "Réduire la largeur de l'impulsion ultrasonore émise",
+      "C": "Réduire l'énergie de l'onde ultrasonore émise",
+      "D": "Amortir les vibrations du boîtier"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 311,
+    "question": "Quel est l'avantage principal d'un traducteur à émetteur et récepteur séparés ?",
+    "options": {
+      "A": "Plus grand angle de dispersion du faisceau",
+      "B": "Plus forte indication de l'impulsion de départ",
+      "C": "Haute sensibilité",
+      "D": "Meilleure détection près de la surface"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 312,
+    "question": "Au niveau de l'appareil ultrasonore, il est possible de modifier :",
+    "options": {
+      "A": "Le gain à la réception",
+      "B": "La fréquence des ultrasons émis",
+      "C": "La fréquence des ultrasons reçus",
+      "D": "Le temps mis par les ultrasons pour traverser l'épaisseur contrôlée"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 313,
+    "question": "A niveau de sensibilité égal, que se passe-t-il lorsque l'on augmente la puissance d'émission ?",
+    "options": {
+      "A": "On élargit le signal de départ",
+      "B": "On sature l'amplification de réception un temps plus long",
+      "C": "On augmente la zone de silence",
+      "D": "A, B et C"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 314,
+    "question": "Un codeur associé à un équipement ultrasonore permet de :",
+    "options": {
+      "A": "Transformer le signal haute fréquence pour obtenir une visualisation de type A",
+      "B": "Transformer le signal électrique en signal acoustique",
+      "C": "Connaître le déplacement linéaire de la sonde",
+      "D": "Connaître les types de signaux utilisés à l'émission"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 315,
+    "question": "A quel endroit apparaît la divergence du faisceau ultrasonore ?",
+    "options": {
+      "A": "Au niveau de l'élément piézo-électrique",
+      "B": "A la limite du champ proche",
+      "C": "Dans le champ lointain",
+      "D": "Toutes les propositions ci-dessus"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 316,
+    "question": "L'utilisation de traducteur à relais :",
+    "options": {
+      "A": "Améliore la correction de la courbe distance /amplitude dans le champ proche",
+      "B": "Réduit la détectabilité des défauts dans le champ proche",
+      "C": "Modifie la fréquence centrale du traducteur",
+      "D": "Améliore la précision de mesures d'épaisseurs pour des produits peu épais"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 317,
+    "question": "Le pouvoir de résolution d'un traducteur dépend de :",
+    "options": {
+      "A": "Diamètre",
+      "B": "Bande passante",
+      "C": "Fréquence de récurrence",
+      "D": "Aucune des propositions ci-dessus"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 318,
+    "question": "Un traducteur à 10 MHz dont la bande passante est de 90 % à -6 dB, est considéré comme un traducteur :",
+    "options": {
+      "A": "Très peu amorti",
+      "B": "Peu amorti",
+      "C": "Amorti",
+      "D": "Fortement amorti"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 319,
+    "question": "Un traducteur à surface de Fermat est une sonde :",
+    "options": {
+      "A": "Ultrasons multilélements",
+      "B": "Ultrasons non focalisé",
+      "C": "Ultrasons focalisé",
+      "D": "Utilisée pour mesure d'épaisseur"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 401,
+    "question": "Dans les essais ultrasonores, la durée d'une impulsion est caractérisée par :",
+    "options": {
+      "A": "Sa largeur",
+      "B": "Son amplitude",
+      "C": "Sa forme",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 402,
+    "question": "La présence d'une mince couche de calamine adhérente à la surface d'une pièce :",
+    "options": {
+      "A": "N'empêche pas la transmission des ultrasons",
+      "B": "Rend impossible la transmission des ultrasons",
+      "C": "Favorise la transmission des ultrasons",
+      "D": "Dispense de l'emploi d'un milieu de couplage"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 403,
+    "question": "L'intérêt principal de l'utilisation de traducteurs focalisés par rapport aux traducteurs à semelles planes est d'améliorer :",
+    "options": {
+      "A": "La mesure de l'épaisseur de pièces épaisses",
+      "B": "La mesure de l'épaisseur de pièces minces",
+      "C": "La détermination de défauts de petites dimensions",
+      "D": "La mesure de la vitesse des ultrasons dans des pièces étalons"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 404,
+    "question": "Pour le contrôle de pièces d'épaisseurs faibles, quel est le critère principal du choix du traducteur à utiliser ?",
+    "options": {
+      "A": "Faible zone de silence",
+      "B": "Faible fréquence d'émission",
+      "C": "Traducteur grande dimension",
+      "D": "L'ensemble des critères ci-dessus"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 405,
+    "question": "Pour le contrôle de défauts de petites dimensions, quel est le critère principal du choix du traducteur à utiliser ?",
+    "options": {
+      "A": "Fréquence élevée",
+      "B": "Faible coefficient d'absorption",
+      "C": "Faisceau à bande de fréquence étroite",
+      "D": "Fort amortissement"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 406,
+    "question": "Lorsqu'on contrôle par ultrasons un produit à surface rugueuse, il est généralement nécessaire d'utiliser :",
+    "options": {
+      "A": "Un traducteur de plus basse fréquence et un milieu de couplage plus visqueux que ceux utilisés sur un produit à la surface lisse",
+      "B": "Un traducteur de plus haute fréquence et un milieu de couplage plus visqueux",
+      "C": "Un traducteur de plus haute fréquence et un milieu de couplage moins visqueux",
+      "D": "Un traducteur de plus basse fréquence et milieu de couplage moins visqueux"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 407,
+    "question": "Pour limiter les dimensions transversales d'un faisceau ultrasonore émis par un traducteur utilisé en immersion, on peut utiliser :",
+    "options": {
+      "A": "Une lentille de focalisation",
+      "B": "Un dispositif de triangulation",
+      "C": "Un sélecteur d'écho à porte étroite",
+      "D": "En fait le faisceau ne peut pas être réduit"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 408,
+    "question": "Un des principaux paramètres dont dépend la vitesse de contrôle en sondage automatique ou semi-automatique est :",
+    "options": {
+      "A": "La fréquence du palpeur",
+      "B": "La fréquence de récurrence de l'appareil à ultrasons",
+      "C": "La vitesse de rafraîchissement de l'écran",
+      "D": "L'atténuation des ondes ultrasonores"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 409,
+    "question": "Une augmentation de la durée de l'impulsion électrique d'excitation du transducteur a pour conséquence :",
+    "options": {
+      "A": "Augmenter la puissance ultrasonore émise",
+      "B": "Accroître le pouvoir de résolution de l'appareil à ultrasons",
+      "C": "Diminuer l'atténuation des ondes par le matériau",
+      "D": "Diminuer l'amplitude des indications ultrasonores"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 410,
+    "question": "Un produit placé entre la face d'un traducteur et la pièce à examiner pour permettre ou améliorer la transmission des ondes ultrasonores s'appelle :",
+    "options": {
+      "A": "Agent de mouillage",
+      "B": "Milieu de couplage",
+      "C": "Réflecteur acoustique",
+      "D": "Agent de lubrification"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 411,
+    "question": "Quel est le paramètre le plus critique (d'un point de vue ultrasons) qui limite la vitesse de contrôle par ultrasons en immersion ?",
+    "options": {
+      "A": "La fréquence du traducteur",
+      "B": "L'affichage des A Scan sur l'écran",
+      "C": "La fréquence de récurrence",
+      "D": "Problèmes de vortex"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 412,
+    "question": "Quel serait le meilleur couplant à utiliser dans le cas de contrôle à haute température ?",
+    "options": {
+      "A": "De la colle cellulosique",
+      "B": "Du couplant PMUC",
+      "C": "De l'eau",
+      "D": "De la graisse"
+    },
+    "reponse": "B"
+  },
+    {
+    "id": 501,
+    "question": "Lors de l'utilisation en immersion d'un bloc de référence comportant un réflecteur artificiel, le système de représentation de type B donne :",
+    "options": {
+      "A": "Une vue en plan du bloc, montrant la surface et la position du réflecteur comme on la voit depuis la face d'entrée",
+      "B": "Une image-type du bloc",
+      "C": "Une coupe du bloc de référence, représentant la surface supérieure et la surface inférieure du bloc et la position du réflecteur",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 502,
+    "question": "Des blocs de référence comportant des entailles peuvent servir :",
+    "options": {
+      "A": "Pour l'utilisation des traducteurs droits",
+      "B": "Pour le contrôle par transmission",
+      "C": "Pour l'utilisation de traducteurs d'angle",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 503,
+    "question": "Dans la figure ci-dessous, le traducteur est positionné en A pour estimer :",
+    "options": {
+      "A": "Le pouvoir de résolution",
+      "B": "La zone de silence",
+      "C": "La sensibilité relative",
+      "D": "La puissance d'émission"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 504,
+    "question": "Dans la figure ci-dessous, le traducteur est positionné soit en B₁, B₂...B₄ pour :",
+    "options": {
+      "A": "Estimer le pouvoir de résolution",
+      "B": "Etalonner l'échelle des mesures",
+      "C": "Déterminer ou contrôler l'angle de réfraction",
+      "D": "Corriger le point zéro de l'échelle de mesure"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 505,
+    "question": "Dans la figure ci-dessous, le traducteur est positionné en C pour :",
+    "options": {
+      "A": "Contrôler l'angle de réfraction",
+      "B": "Déterminer ou contrôler le point d'émergence (point d'incidence)",
+      "C": "Régler le point zéro de l'échelle de mesure",
+      "D": "B et C"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 506,
+    "question": "Les blocs-étalons et les pièces de référence sont utilisés pour :",
+    "options": {
+      "A": "Contrôler les caractéristiques de l'appareillage et des traducteurs",
+      "B": "Régler la sensibilité d'examen",
+      "C": "Reproduire des conditions de réglages antérieurs",
+      "D": "Toutes les opérations énumérées ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 507,
+    "question": "Le réglage de la base de temps pour un traducteur d'ondes transversales :",
+    "options": {
+      "A": "Est identique à l'étalonnage pour un traducteur d'ondes longitudinales pour le même parcours",
+      "B": "Doit tenir compte du parcours dans le coin en plexiglas® à la vitesse des ondes longitudinales",
+      "C": "Est équivalent à 2 fois le temps mis par une onde longitudinale pour le même parcours",
+      "D": "Doit tenir compte du parcours dans le coin en plexiglas® à la vitesse des ondes transversales"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 508,
+    "question": "Effectuer une correction de transfert consiste à :",
+    "options": {
+      "A": "Corriger la base de temps si le matériau contrôlé n'est pas de même nature que le bloc de référence",
+      "B": "Corriger la valeur de l'amplification si le matériau contrôlé n'est pas de même nature que le bloc de référence",
+      "C": "Usiner la semelle du traducteur si la surface à contrôler n'est pas plane",
+      "D": "Les réponses B + C"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 509,
+    "question": "L'utilisation de la méthode AVG pour l'évaluation de la taille des discontinuités nécessite :",
+    "options": {
+      "A": "La connaissance des caractéristiques du traducteur",
+      "B": "La connaissance de la vitesse de propagation dans le matériau à contrôler",
+      "C": "De comparer l'amplitude de l'écho de la discontinuité décelée avec l'amplitude de l'écho de fond de référence",
+      "D": "Les réponses A, B et C"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 510,
+    "question": "Lors de l'utilisation du bloc d'étalonnage n° 2 conforme à NF EN ISO 7963, un réglage en distance sur la base de temps de l'appareil est réalisé avec un traducteur d'angle. Pour une position particulière du traducteur, quels sont les parcours de 2 échos successifs à obtenir pour un réglage en distance de 100 mm pleine échelle ?",
+    "options": {
+      "A": "50 mm - 100 mm",
+      "B": "25 mm - 100 mm",
+      "C": "25 mm - 50 mm",
+      "D": "25 mm - 75 mm"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 511,
+    "question": "La technique d'étalonnage de la base de temps d'un appareil à ultrasons dite « en distance projetée » représente lors d'un contrôle en ondes transversales :",
+    "options": {
+      "A": "La distance du point d'émergence du traducteur à l'aplomb de l'indication détectée",
+      "B": "Le parcours sonore du traducteur à l'indication détectée",
+      "C": "La profondeur directe de l'indication par rapport à la face d'examen",
+      "D": "Cette technique n'est jamais utilisée"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 512,
+    "question": "Un opérateur indique qu'il a augmenté le gain de son appareil de 12 dB. Quel est le rapport d'amplitude correspondant ?",
+    "options": {
+      "A": "Le rapport d'amplitude est augmenté d'un facteur 12",
+      "B": "Le rapport d'amplitude est augmenté d'un facteur 4",
+      "C": "Le rapport d'amplitude est diminué d'un facteur 4",
+      "D": "Le rapport d'amplitude est diminué d'un facteur 12"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 513,
+    "question": "Dans la technique des diamètres de réflectivité (AVG ou DGS), le réglage de la sensibilité peut être obtenu en prenant comme écho de référence :",
+    "options": {
+      "A": "Un écho de fond de la pièce",
+      "B": "Un écho d'indication",
+      "C": "L'écho d'entrée dans la pièce placé à 100 % de la hauteur d'écran",
+      "D": "Un écho de paroi latérale"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 514,
+    "question": "L'avantage principal de la technique des diamètres de réflectivité (AVG ou DGS) réside dans :",
+    "options": {
+      "A": "Sa validité aussi bien dans le domaine du champ proche que du champ éloigné",
+      "B": "La non dépendance au diamètre du traducteur",
+      "C": "L'utilisation de réflecteurs artificiels",
+      "D": "La possibilité de se régler sur la pièce"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 515,
+    "question": "Lorsque le mode de correction du gain (TCG), d'un appareil ultrasonore équipé de cette fonction, est activé :",
+    "options": {
+      "A": "Le gain est corrigé pour que l'écho de fond soit à 100 % de la hauteur d'écran",
+      "B": "Les échos de chaque réflecteur de référence (de même diamètre) décrivent sur l'écran une courbe décroissante appelée courbe amplitude distance",
+      "C": "Les échos de chaque réflecteur de référence (de même diamètre) sont tous à la même hauteur sur l'écran",
+      "D": "Tous les échos, situés dans la porte, sont placés à 80 % de la hauteur d'écran"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 516,
+    "question": "Pour dimensionner le faisceau acoustique, on utilise un réflecteur :",
+    "options": {
+      "A": "Dont la surface réfléchissante est supérieure au faisceau acoustique",
+      "B": "Dont la surface réfléchissante est inférieure au faisceau acoustique",
+      "C": "Peu importe la taille du réflecteur",
+      "D": "On ne dimensionne pas le faisceau acoustique"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 517,
+    "question": "Vous devez réaliser le contrôle par ultrasons sur un produit métallique. Pour effectuer la calibration vous disposez de blocs de référence constitués de T.F.P. Ø 1,2 mm à différentes profondeur. On vous demande de réaliser une T.C.G. et d'amener la réponse de chaque T.F.P. à 80 % H.E. La procédure précise que toute indication ≥ T.F.P. Ø 0,6 mm doit être notée. La porte de surveillance doit être positionnée à – 6 dB du seuil de notation. A quelle amplitude (% H.E.) devrez vous ajuster votre porte de surveillance ?",
+    "options": {
+      "A": "10 % Hauteur écran",
+      "B": "20 % Hauteur écran",
+      "C": "5 % Hauteur écran",
+      "D": "15 % Hauteur écran"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 601,
+    "question": "La représentation sur l'écran d'un appareil de contrôle par ultrasons de l'amplitude des ultrasons réfléchis, en fonction du temps ou de la profondeur dans le métal, s'appelle :",
+    "options": {
+      "A": "Une représentation de type B",
+      "B": "Une représentation de type A",
+      "C": "Une représentation de type C",
+      "D": "Une perspective ultrasonore"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 602,
+    "question": "La représentation en vue de dessus de toute la pièce et des éventuels défauts s'appelle :",
+    "options": {
+      "A": "Représentation de type D",
+      "B": "Représentation de type A",
+      "C": "Représentation de type B",
+      "D": "Représentation de type C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 701,
+    "question": "La technique de sondage ultrasonore, utilisant un traducteur parallèle à la surface du matériau et des ondes ultrasonores, y pénétrant perpendiculairement à la surface, est :",
+    "options": {
+      "A": "La technique par faisceau droit",
+      "B": "La technique par faisceau oblique",
+      "C": "La technique par ondes de surface",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 702,
+    "question": "La technique de sondage, utilisant des ondes ultrasonores issues d'un traducteur émetteur en traversant la pièce et captées par un traducteur récepteur sur la face opposée, s'appelle la technique :",
+    "options": {
+      "A": "Par ondes de surface",
+      "B": "Par faisceau oblique",
+      "C": "Par transmission",
+      "D": "Par faisceau droit"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 703,
+    "question": "Quelle est l'application la plus courante des ondes de cisaillement ?",
+    "options": {
+      "A": "Détection des discontinuités dans les soudures et les tubes",
+      "B": "Détermination des propriétés élastiques des produits métalliques",
+      "C": "Détection des discontinuités lamellaires dans les tôles fortes",
+      "D": "Mesure de l'épaisseur des tôles minces"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 704,
+    "question": "La mesure d'épaisseur par ultrasons d'un matériau peut être entachée d'erreurs si :",
+    "options": {
+      "A": "La fréquence des ondes ultrasonores varie",
+      "B": "La vitesse de propagation des ultrasons diffère sensiblement de la valeur présumée",
+      "C": "De l'eau est utilisée comme agent de couplage",
+      "D": "Aucun des phénomènes ci-dessus ne devrait entraîner d'erreurs"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 705,
+    "question": "La meilleure technique de contrôle ultrasonore pour déceler les discontinuités dans une soudure est en général :",
+    "options": {
+      "A": "La technique par contact par faisceau oblique en ondes de surface",
+      "B": "Un essai par contact par ondes longitudinales droites",
+      "C": "Une technique par immersion en ondes de surface",
+      "D": "La technique par faisceau oblique en ondes de cisaillement"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 706,
+    "question": "L'utilisation d'un traducteur d'angle permet la propagation dans une pièce d'un faisceau d'ondes ultrasonores par réflexions successives. Cet essai est en général utilisé pour déterminer :",
+    "options": {
+      "A": "La présence de défauts au niveau de soudures",
+      "B": "Les variations de dureté dans une pièce",
+      "C": "L'orientation de défauts internes unidirectionnels",
+      "D": "Les variations d'épaisseur le long d'une pièce"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 707,
+    "question": "On peut mesurer l'épaisseur d'une tôle de 8 mm avec un faisceau d'ondes longitudinales dirigé perpendiculairement à la surface en observant :",
+    "options": {
+      "A": "L'amplitude de la réflexion sur la face d'entrée de cette tôle",
+      "B": "L'image des réflexions multiples",
+      "C": "Toutes les réflexions sur la face d'entrée de la tôle",
+      "D": "Aucune des caractéristiques ci-dessus"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 708,
+    "question": "La méthode la plus courante de production d'ondes de cisaillement dans une pièce en contrôle par immersion est la suivante :",
+    "options": {
+      "A": "Par transmission d'ondes longitudinales dans une direction perpendiculaire à la face d'entrée de la pièce",
+      "B": "Par utilisation de 2 transducteurs vibrant à des fréquences différentes",
+      "C": "Par utilisation d'un élément de cristal de taille Y",
+      "D": "En positionnant le traducteur d'ondes longitudinales suivant un angle correct par rapport à la normale de la pièce"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 709,
+    "question": "Les ondes de Lamb peuvent être utilisées pour contrôler :",
+    "options": {
+      "A": "Des pièces forgées",
+      "B": "Des barres brutes",
+      "C": "Des lingots",
+      "D": "De la tôle mince"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 710,
+    "question": "Dans la technique de contrôle en immersion, la distance comprise entre le traducteur et la pièce doit être :",
+    "options": {
+      "A": "La plus faible possible",
+      "B": "La même que pendant l'étalonnage",
+      "C": "Au moins égale à l'épaisseur de la pièce",
+      "D": "En fait cette distance n'a aucun effet sur les résultats"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 711,
+    "question": "Lors du contrôle par ultrasons en incidence normale d'un produit en acier par immersion dans l'eau, pour éviter l'apparition d'un deuxième écho d'entrée avant le premier écho de fond, il est nécessaire d'avoir une distance du traducteur à la face d'entrée du produit égale :",
+    "options": {
+      "A": "A l'épaisseur du produit",
+      "B": "Au moins au quart de l'épaisseur du produit",
+      "C": "A quatre fois l'épaisseur du produit",
+      "D": "En fait, cette distance peut être quelconque"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 712,
+    "question": "Dans la technique par immersion, il est souvent nécessaire de modifier l'angle d'incidence du traducteur pour :",
+    "options": {
+      "A": "Eviter un grand nombre d'échos de fond",
+      "B": "Obtenir une réponse maximale si la discontinuité n'est pas perpendiculaire au faisceau ultrasonore réfracté",
+      "C": "Obtenir un grand nombre d'échos sur la face d'entrée",
+      "D": "Obtenir un écho de la même hauteur que l'indication du trou à fond plat du bloc de référence"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 713,
+    "question": "Dans la technique par immersion, les échos d'entrée qui se forment avant le premier écho de fond peuvent être éliminés :",
+    "options": {
+      "A": "En changeant la fréquence",
+      "B": "En réduisant l'amplification de l'appareil",
+      "C": "En faisant varier la distance entre le traducteur et la pièce à contrôler",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 714,
+    "question": "Lors de l'utilisation d'un traducteur d'angle, la distance projetée sur la surface de sondage correspond à :",
+    "options": {
+      "A": "La distance séparant le bord du traducteur et le point correspondant à l'aplomb de l'indication",
+      "B": "La distance entre le point d'émergence et le point correspondant à l'aplomb de l'indication",
+      "C": "Le parcours sonore projeté selon la normale à la surface",
+      "D": "La profondeur de l'indication calculée en fonction de l'angle du traducteur"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 715,
+    "question": "Quelles sont les applications possibles utilisant des technologies ultrasons ?",
+    "options": {
+      "A": "Détermination du module d'élasticité d'un matériau",
+      "B": "Etude de la structure d'un matériau",
+      "C": "Mesure d'épaisseur d'un matériau",
+      "D": "Toutes les propositions ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 716,
+    "question": "En contrôle par ultrasons par immersion, les effets du champ proche peuvent être éliminés en :",
+    "options": {
+      "A": "Augmentant la fréquence du traducteur",
+      "B": "Utilisant un traducteur focalisé",
+      "C": "Utilisant une distance d'eau appropriée",
+      "D": "Augmentant le diamètre du traducteur"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 717,
+    "question": "Quelles techniques de contrôle par ultrasons peuvent être classées comme ultrasons par immersion ?",
+    "options": {
+      "A": "Cuve ultrasons avec pièces et traducteurs immergés",
+      "B": "Roue, avec traducteur à l'intérieur immergé dans de l'eau",
+      "C": "Ultrasons par transmission utilisant des jets d'eau",
+      "D": "Toutes les propositions ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 718,
+    "question": "La mesure d'épaisseur d'un revêtement métallique par ultrasons est possible si l'impédance acoustique de ce revêtement est :",
+    "options": {
+      "A": "Egalé à l'impédance acoustique du substrat",
+      "B": "Beaucoup plus grande que l'impédance acoustique du substrat",
+      "C": "Nulle",
+      "D": "Aucune des réponses ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 719,
+    "question": "Lors d'un contrôle ultrasonore par immersion d'un bloc de 300 mm en alliage d'aluminium, quelle distance d'eau mini doit-on avoir pour éviter l'apparition d'un deuxième écho d'entrée dans la pièce avant l'écho de fond ? Vitesse dans l'aluminium= 6200 m/s ; Vitesse dans l'eau= 1500 m/s :",
+    "options": {
+      "A": "54 mm",
+      "B": "50 mm",
+      "C": "102 mm",
+      "D": "72 mm"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 801,
+    "question": "Si la divergence du faisceau ultrasonore entraîne une réflexion sur la face latérale de la pièce contrôlée, le phénomène suivant peut apparaître :",
+    "options": {
+      "A": "Echos de fond multiples et équidistants",
+      "B": "Echos de la face d'entrée multiples",
+      "C": "Conversion de mode",
+      "D": "Pertes des indications de la face avant"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 802,
+    "question": "Le décollement de l'amortisseur provoque la détérioration d'un traducteur et se remarque, dans des conditions de contrôle normales :",
+    "options": {
+      "A": "Par un élargissement considérable de l'écho d'émission",
+      "B": "Par la présence de nombreux échos situés entre l'écho d'émission et celui de fond dans une pièce",
+      "C": "Par une absence totale d'écho d'émission",
+      "D": "Par une absence totale d'écho de fond"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 803,
+    "question": "Lors d'un contrôle ultrasonore, la présence d'échos de grande amplitude se déplaçant sur l'écran de l'appareil à des vitesses variables, et qu'il est impossible de stabiliser, peut généralement être attribuée :",
+    "options": {
+      "A": "A la présence d'une fissure de forme irrégulière",
+      "B": "A la porosité du produit",
+      "C": "A des parasites d'origine électrique",
+      "D": "A la forme striée du fond de la pièce"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 804,
+    "question": "Lors d'un contrôle ultrasonore par contact avec un traducteur droit, des indications douteuses peuvent apparaître et sont dues :",
+    "options": {
+      "A": "A l'absence de milieu de couplage",
+      "B": "A la présence de réflexions parasites engendrées par un usinage grossier",
+      "C": "A des hétérogénéités internes de forme elliptique",
+      "D": "Ni A, ni B, ni C"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 805,
+    "question": "Un appareil à ultrasons est réglé pour obtenir un écho de 25 mm de hauteur par réflexion sur un trou à fond plat situé à 75 mm de la face d'entrée d'une cale en acier. Lors du sondage d'un produit en acier forgé, on constate un écho de 25 mm de hauteur provenant d'une discontinuité située à 75 mm de la face d'entrée. La surface de cette discontinuité est probablement :",
+    "options": {
+      "A": "Le double de celle du trou à fond plat de référence",
+      "B": "Au moins égale à celle du trou à fond plat de référence",
+      "C": "Très légèrement inférieure à celle du trou à fond plat de référence",
+      "D": "Egale à la moitié de la surface du trou à fond plat de référence"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 806,
+    "question": "Lorsqu'au cours d'un contrôle ultrasonore, il se produit une chute brutale de l'écho de fond sans indication de discontinuité importante, le produit peut présenter localement :",
+    "options": {
+      "A": "Une discontinuité mal orientée par rapport à la face d'entrée",
+      "B": "Un nid de porosités",
+      "C": "Une augmentation importante de la grosseur de grain",
+      "D": "Les 3 conditions ci-dessus"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 807,
+    "question": "Un manque de parallélisme entre la face d'entrée et le fond d'une pièce :",
+    "options": {
+      "A": "Ne permet pas le contrôle par écho",
+      "B": "Signifie la présence de porosités dans ce produit",
+      "C": "Peut entraîner la disparition de l'écho de fond",
+      "D": "Rend plus facile la détection des défauts sensiblement parallèles à la face d'entrée"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 808,
+    "question": "Quelle est la distance totale parcourue par une impulsion fournie par un traducteur droit dans une plaque d'acier de 100 mm d'épaisseur correspondant au troisième écho de fond ?",
+    "options": {
+      "A": "300 mm",
+      "B": "600 mm",
+      "C": "200 mm",
+      "D": "400 mm"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 809,
+    "question": "La figure ci-dessous représente un examen par immersion sur une cale en acier de 75 mm d'épaisseur qui présente une discontinuité située à 50 mm de la face d'entrée. Le premier écho de la discontinuité, le premier écho de fond, le premier écho de la face d'entrée, le deuxième écho de la face d'entrée, portent respectivement les numéros suivants :",
+    "options": {
+      "A": "2, 4, 3, 5",
+      "B": "3, 4, 2, 5",
+      "C": "2, 3, 1, 4",
+      "D": "4, 5, 2, 3"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 810,
+    "question": "Quel type d'indication correctement orientée par rapport au faisceau ultrasonore, donnera le plus grand pouvoir réfléchissant ?",
+    "options": {
+      "A": "Une fissure",
+      "B": "Une soufflure",
+      "C": "Une inclusion de sable",
+      "D": "Une piqûre"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 811,
+    "question": "Lors de l'évaluation d'une indication interne, mise en évidence lors d'un contrôle par Ultrasons en Ondes Longitudinales, quelle est selon vous la donnée la plus précise ?",
+    "options": {
+      "A": "L'équivalence de l'indication en valeur de trou à fond plat",
+      "B": "La profondeur de l'indication",
+      "C": "Les dimensions longueur x largeur de l'indication",
+      "D": "L'orientation de l'indication"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 901,
+    "question": "En ultrasons multéléments, la normalisation consiste :",
+    "options": {
+      "A": "Au réglage de l'homogénéité de réponse de chaque élément",
+      "B": "Au réglage de perpendicularité de chaque élément",
+      "C": "Au paramétrage de la sonde",
+      "D": "Aucune des réponses ci-dessus"
+    },
+    "reponse": "A"
+  },
+  {
+    "id": 902,
+    "question": "En ultrasons multéléments, la focalisation du faisceau utilise :",
+    "options": {
+      "A": "Une orientation des éléments",
+      "B": "Une modulation de fréquence",
+      "C": "Les lois de retard",
+      "D": "Un réglage de gain différent pour chacun des éléments"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 903,
+    "question": "Dans une sonde multéléments (barrette linéaire), qu'est-ce que le «pitch» ?",
+    "options": {
+      "A": "La hauteur des éléments des éléments",
+      "B": "L'ouverture du groupe d'éléments actifs",
+      "C": "La largeur d'un élément",
+      "D": "La distance de centre à centre de deux éléments consécutifs"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 904,
+    "question": "Dans une sonde multéléments (barrette linéaire), qu'est-ce que l'ouverture active ?",
+    "options": {
+      "A": "La distance séparant deux éléments",
+      "B": "Le nombre d'éléments actifs d'un groupe",
+      "C": "La largeur d'un élément",
+      "D": "La distance de centre à centre de deux éléments consécutifs"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 905,
+    "question": "Pour pouvoir focaliser, le faisceau ultrasonore avec une barrette linéaire multéléments, le groupe d'éléments actifs doit comporter classiquement au minimum :",
+    "options": {
+      "A": "Un élément",
+      "B": "Deux éléments",
+      "C": "Six éléments",
+      "D": "Tous les éléments de la barrette"
+    },
+    "reponse": "B"
+  },
+  {
+    "id": 906,
+    "question": "En technique TOFD, à quoi correspond l'onde dite latérale ?",
+    "options": {
+      "A": "A l'onde de surface entre les 2 traducteurs",
+      "B": "A l'onde de Lamb sous la surface",
+      "C": "A l'onde de compression sous la surface",
+      "D": "A l'onde de cisaillement sous la surface"
+    },
+    "reponse": "D"
+  },
+  {
+    "id": 907,
+    "question": "Quelle est la différence en générale en atténuation entre un écho de réflexion et un écho de diffraction ?",
+    "options": {
+      "A": "- 4 dB",
+      "B": "- 10 dB",
+      "C": "- 20 dB",
+      "D": "- 30 dB"
+    },
+    "reponse": "C"
+  },
+  {
+    "id": 908,
+    "question": "En technique TOFD, quelle est le type d'onde utilisé pour le dimensionnement des indications ?",
+    "options": {
+      "A": "L'onde longitudinale",
+      "B": "L'onde transversale",
+      "C": "L'écho de fond",
+      "D": "L'onde latérale"
+    },
+    "reponse": "A"
+      },
+    {
+      "id": 909,
+      "question": "En technique TOFD, les conditions opératoires permettent de générer :",
+      "options": {
+        "A": "Seule une onde de cisaillement",
+        "B": "Seule une onde de compression",
+        "C": "Seule une onde de surface",
+        "D": "Une onde de compression et une onde de cisaillement"
+      },
+      "reponse": "D"
+    }
+  ]
+}
+
+   
+   
